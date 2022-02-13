@@ -1,7 +1,7 @@
 rm(list=ls())
 library(data.table)
 library(curl)
-df_agr <- fread("")
+df_agr <- fread("https://github.com/sternenklar/A-Good-Reason/raw/main/complete%20data.csv")
 df_oxcgrt <- fread("https://github.com/OxCGRT/covid-policy-tracker/blob/master/data/OxCGRT_latest.csv?raw=true", select=c("Date", "CountryName", "RegionName", "C6_Stay at home requirements"))
 df_oxcgrt<-df_oxcgrt[(df_oxcgrt$RegionName==""),][,RegionName:=NULL] #necessary to delete all sub-national data to have distinct data points for each country and day
 df_oxcgrt$Date=as.Date(as.character(df_oxcgrt$Date), format="%Y%m%d")
