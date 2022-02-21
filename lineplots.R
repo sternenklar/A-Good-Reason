@@ -47,11 +47,11 @@ plot_data_deaths <- df_for_plots %>%
   group_by(date, restrictions) %>%
   filter(!is.na(new_deaths)&!is.na(population)) %>%
   mutate(deaths_per_mil_by_category=sum(new_deaths)/sum(population)*1000000) %>%
-  group_by(restrictions) %>%
-  mutate(deaths_per_mil_by_category_7dayavg=rollmean(deaths_per_mil_by_category, k=7, fill=NA)) %>%
-  select(date, restrictions, deaths_per_mil_by_category, deaths_per_mil_by_category_7dayavg) %>%
+  select(date, restrictions, deaths_per_mil_by_category) %>%
   distinct() %>%
-  arrange(date, restrictions)
+  arrange(date, restrictions) %>%
+  group_by(restrictions) %>%
+  mutate(deaths_per_mil_by_category_7dayavg=rollmean(deaths_per_mil_by_category, k=7, fill=NA))
 
   
 plot_data_hosp <- df_for_plots %>%
@@ -106,11 +106,13 @@ plot_data_deaths_without_russia <- df_for_plots %>%
   group_by(date, restrictions) %>%
   filter(!is.na(new_deaths)&!is.na(population)&country!="Russia") %>%
   mutate(deaths_per_mil_by_category=sum(new_deaths)/sum(population)*1000000) %>%
-  group_by(restrictions) %>%
-  mutate(deaths_per_mil_by_category_7dayavg=rollmean(deaths_per_mil_by_category, k=7, fill=NA)) %>%
-  select(date, restrictions, deaths_per_mil_by_category, deaths_per_mil_by_category_7dayavg) %>%
+  select(date, restrictions, deaths_per_mil_by_category) %>%
   distinct() %>%
-  arrange(date, restrictions)
+  arrange(date, restrictions) %>%
+  group_by(restrictions) %>%
+  mutate(deaths_per_mil_by_category_7dayavg=rollmean(deaths_per_mil_by_category, k=7, fill=NA))
+  
+
 
 plot_data_deaths_without_russia$restrictions <- factor(plot_data_deaths_without_russia$restrictions, levels=c("no stay-at-home restrictions", "night curfews at least locally", "some daytime stay-at-home order at least locally", "stay-at-home order with restrictions on walks in entire country"))
 
@@ -173,11 +175,12 @@ plot_data_deaths_alt <- df_for_plots_alt %>%
   group_by(date, restrictions) %>%
   filter(!is.na(new_deaths)&!is.na(population)) %>%
   mutate(deaths_per_mil_by_category=sum(new_deaths)/sum(population)*1000000) %>%
-  group_by(restrictions) %>%
-  mutate(deaths_per_mil_by_category_7dayavg=rollmean(deaths_per_mil_by_category, k=7, fill=NA)) %>%
-  select(date, restrictions, deaths_per_mil_by_category, deaths_per_mil_by_category_7dayavg) %>%
+  select(date, restrictions, deaths_per_mil_by_category) %>%
   distinct() %>%
-  arrange(date, restrictions)
+  arrange(date, restrictions) %>%
+  group_by(restrictions) %>%
+  mutate(deaths_per_mil_by_category_7dayavg=rollmean(deaths_per_mil_by_category, k=7, fill=NA))
+
 
 
 plot_data_hosp_alt <- df_for_plots_alt %>%
