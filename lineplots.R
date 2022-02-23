@@ -32,7 +32,7 @@ plot_mortality <- ggplot(cumul_excess)+
   geom_point(aes(total_deaths_per_million, excess_mortality_cumulative, colour=no_soh))+
   scale_colour_manual(values=c("black", "green"))+
   theme(legend.position="none")+
-  labs(x="Total Covid-19 deaths per million", y="Cumulative excess mortality", caption="Data from 27 June (for 30 countries) / 30 June (for 12 countries) 2021,\n countries that never introduced any stay-at-home restrictions in green")
+  labs(x="Total Covid-19 deaths per million", y="Cumulative excess mortality as percentage of expected mortality", caption="Data from 27 June (for 30 countries) / 30 June (for 12 countries) 2021,\n countries that never introduced any stay-at-home restrictions in green")
 ggsave("website/plot_excess_mortality.png")
 
 cumul_excess_lookup <- cumul_excess %>%
@@ -231,15 +231,19 @@ ggsave("website/plot_deaths_7dayavg_alt.png", width=15, height=4, unit="in")
 
 #as a robustness check let's filter out Russia
 
+
 plot_data_deaths_without_russia_alt <- df_for_plots_alt %>%
   group_by(date, restrictions) %>%
   filter(!is.na(new_deaths)&!is.na(population)&country!="Russia") %>%
   mutate(deaths_per_mil_by_category=sum(new_deaths)/sum(population)*1000000) %>%
+  select(date, restrictions, deaths_per_mil_by_category) %>%
+  distinct() %>%
+  arrange(date, restrictions) %>%
   group_by(restrictions) %>%
   mutate(deaths_per_mil_by_category_7dayavg=rollmean(deaths_per_mil_by_category, k=7, fill=NA)) %>%
-    select(date, restrictions, deaths_per_mil_by_category, deaths_per_mil_by_category_7dayavg) %>%
-  distinct() %>%
-  arrange(date, restrictions)
+  
+  
+  
 
 plot_data_deaths_without_russia_alt$restrictions <- factor(plot_data_deaths_without_russia_alt$restrictions, levels=c("no stay-at-home restrictions", "night curfews at least locally", "some daytime stay-at-home order at least locally", "stay-at-home order with restrictions on walks in entire country"))
 
