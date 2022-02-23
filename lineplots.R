@@ -240,10 +240,7 @@ plot_data_deaths_without_russia_alt <- df_for_plots_alt %>%
   distinct() %>%
   arrange(date, restrictions) %>%
   group_by(restrictions) %>%
-  mutate(deaths_per_mil_by_category_7dayavg=rollmean(deaths_per_mil_by_category, k=7, fill=NA)) %>%
-  
-plot_data_deaths_without_russia_alt$restrictions <- factor(plot_data_deaths_without_russia_alt$restrictions, levels=c("no stay-at-home restrictions", "night curfews at least locally", "some daytime stay-at-home order at least locally", "stay-at-home order with restrictions on walks in entire country"))
-
+  mutate(deaths_per_mil_by_category_7dayavg=rollmean(deaths_per_mil_by_category, k=7, fill=NA))
   
 
 
@@ -257,6 +254,8 @@ plot_deaths_without_russia_alt <- ggplot(plot_data_deaths_without_russia_alt)+
   theme(legend.position="bottom")+
   geom_label(aes(label="Each country is classified in a category for the time until \n August 2020 and in one for the time thereafter", x=as.Date("2020-06-25"), y=10), size=3.5)
 ggsave("website/plot_deaths_without_russia_alt.png", width=15, height=4, unit="in")
+
+plot_data_deaths_without_russia_alt$restrictions <- factor(plot_data_deaths_without_russia_alt$restrictions, levels=c("no stay-at-home restrictions", "night curfews at least locally", "some daytime stay-at-home order at least locally", "stay-at-home order with restrictions on walks in entire country"))
 
 plot_deaths_7dayavg_without_russia_alt <- ggplot(plot_data_deaths_without_russia_alt)+
   geom_line(aes(date, deaths_per_mil_by_category_7dayavg, colour=restrictions))+
