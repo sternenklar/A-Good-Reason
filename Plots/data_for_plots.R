@@ -5,7 +5,7 @@ library(curl)
 library(dplyr)
 library(zoo)
 setwd("/home/jmva/Dokumente/A Good Reason")
-df <- data.table(fread("https://raw.githubusercontent.com/sternenklar/A-Good-Reason/main/complete%20data.csv"))
+df <- data.table(fread("https://raw.githubusercontent.com/sternenklar/A-Good-Reason/main/data/complete%20data.csv"))
 
 values <- c("no stay-at-home restrictions", "only outside masks locally / for some", "only outside masks in entire country", "night curfew locally / for some", "night curfew in entire country", "stay-at-home order locally / for some", "stay-at-home order in entire country, walks allowed", "stay-at-home order in entire country, walks restricted locally for some", "stay-at-home order in entire country, walks restricted in entire country", "stay-at-home order, no walks allowed in entire country")
 values_simplified <-c("no stay-at-home restrictions", "night curfews at least locally", "some daytime stay-at-home order at least locally", "stay-at-home order with restrictions on walks in entire country")

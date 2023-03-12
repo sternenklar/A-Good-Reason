@@ -9,3 +9,4 @@ setnames(df_oxcgrt, c("Date", "CountryName", "C6_Stay at home requirements"), c(
 df_agr <- df_oxcgrt[df_agr, , on=c("country", "date")]
 df_agr <- df_agr[(C6_Stay_at_home_requirements %in% c(2,3) & stayhome_day=="no" & stayhome_night=="no") | (C6_Stay_at_home_requirements %in% c(0,1) & (stayhome_day!="no" | stayhome_night!="no")), difference_with_oxcgrt:="yes"][is.na(difference_with_oxcgrt), difference_with_oxcgrt:="no"]
 df_agr[,C6_Stay_at_home_requirements:=NULL]
+.
