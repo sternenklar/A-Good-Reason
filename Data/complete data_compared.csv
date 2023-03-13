@@ -117,27 +117,27 @@ date,country,strictest_night,strictest_day,least_strict_night,least_strict_day,l
 2020-04-25,Albania,6b,6b,6,6,no,"On 25 April, elderly citizens were allowed to exercise outside before 11 AM",https://exit.al/en/2020/04/25/lockdown-measures-further-relaxed-in-low-risk-areas-of-albania/,yes,yes,no,no,no,no
 2020-04-26,Albania,6,6,6,6,no,,,yes,yes,no,no,no,no
 2020-04-27,Albania,6,6,4b,4b,locally,"Starting from 27 April, stay-at-home measures were gradually relaxed. Residents of 11 municipalities could move without authorisation with one more person between 9 AM and 5.30 PM. People were not allowed to drive out of these districts.  Retired people were allowed ouside in these cities from 6 AM to 8.30 AM as well. In the following weeks, these """"""""green zones"""""""" have been expanded to cover further municipalities""""""""","https://exit.al/en/2020/04/25/lockdown-measures-further-relaxed-in-low-risk-areas-of-albania/ 
-https://exit.al/en/2020/04/26/albania-lockdown-measures-eased-some-shops-to-open-on-monday/","yes, but locally for some groups",yes,no,no,no,no
-2020-04-28,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-04-29,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-04-30,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-01,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-02,Albania,6,4b,4b,4b,locally,"On the weekends 2/3 May and 9/10 May, senior citizens were allowed to go out before 10 AM and parents as well as children below 14 were allowed to go out from 11 AM to 5.30 PM.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/albania/measures-in-other-sectors/measures-in-other-sectors/,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-03,Albania,6,4b,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-04,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-05,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-06,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-07,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-08,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-09,Albania,6,4b,4b,4b,locally,"On the weekends 2/3 May and 9/10 May, senior citizens were allowed to go out before 10 AM and parents as well as children below 14 were allowed to go out from 11 AM to 5.30 PM.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/albania/measures-in-other-sectors/measures-in-other-sectors/,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-10,Albania,6,4b,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-11,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-12,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-13,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-14,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-15,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-16,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
-2020-05-17,Albania,6,6,4b,4b,locally,,,"yes, but locally for some groups",yes,no,no,no,no
+https://exit.al/en/2020/04/26/albania-lockdown-measures-eased-some-shops-to-open-on-monday/","yes, but locally only for some groups",yes,no,no,no,no
+2020-04-28,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-04-29,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-04-30,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-01,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-02,Albania,6,4b,4b,4b,locally,"On the weekends 2/3 May and 9/10 May, senior citizens were allowed to go out before 10 AM and parents as well as children below 14 were allowed to go out from 11 AM to 5.30 PM.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/albania/measures-in-other-sectors/measures-in-other-sectors/,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-03,Albania,6,4b,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-04,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-05,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-06,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-07,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-08,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-09,Albania,6,4b,4b,4b,locally,"On the weekends 2/3 May and 9/10 May, senior citizens were allowed to go out before 10 AM and parents as well as children below 14 were allowed to go out from 11 AM to 5.30 PM.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/albania/measures-in-other-sectors/measures-in-other-sectors/,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-10,Albania,6,4b,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-11,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-12,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-13,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-14,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-15,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-16,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
+2020-05-17,Albania,6,6,4b,4b,locally,,,"yes, but locally only for some groups",yes,no,no,no,no
 2020-05-18,Albania,6,0,0,0,no,"From 18 May on, there was no need for authorization of movements anymore in the entire country. Yet, in the red zones, there was still an overnight curfew after 9 PM. Movement in the green zones was unrestricted starting this day.","https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/albania/measures-in-other-sectors/measures-in-other-sectors/
 https://exit.al/en/2020/05/02/albanian-lockdown-measured-to-be-eased-in-the-following-three-weeks/",no,locally,yes,locally,no,no
 2020-05-19,Albania,6,0,0,0,no,,,no,locally,yes,locally,no,no
@@ -5619,28 +5619,28 @@ https://www.lalibre.be/belgique/societe/2020/10/27/confinement-acte-2-les-ecoles
 2020-04-22,Bosnia and Herzegovina,7,7b,7,7b,locally,"On 22 April, the Constitutional Court ruled that the restrictions on elderly and minors were discriminatory and disproportionate.",https://www.rferl.org/a/coronavirus-in-court-bosnia-s-age-based-lockdowns-are-ruled-discriminatory/30574453.html,for some groups,yes,for some groups,no,yes,no
 2020-04-23,Bosnia and Herzegovina,7,7b,7,7b,no,The ban on leaving the municipality in FBIH was discontinued. I found no information when the respective weekend ban ended in the RS..,,for some groups,yes,for some groups,no,yes,no
 2020-04-24,Bosnia and Herzegovina,7,7b,7b,7b,no,"As of 24 April, in the FBIH, minors could leave their homes on Tuesdays, Thursdays, and Saturdays between 2 PM and 8 PM. Elderly (above 65) could leave their homes on Mondays, Wednesdays, and Fridays between the hours of 0900-1300. The curfew was ended.","https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/bosnia-and-herzegovina/preventing-transmission/physical-distancing/
-https://www.rferl.org/a/coronavirus-in-court-bosnia-s-age-based-lockdowns-are-ruled-discriminatory/30574453.html",for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-04-25,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-04-26,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
+https://www.rferl.org/a/coronavirus-in-court-bosnia-s-age-based-lockdowns-are-ruled-discriminatory/30574453.html",for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-04-25,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-04-26,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
 2020-04-27,Bosnia and Herzegovina,7,7b,7b,7b,no,"As of 27 April, seniors in the Republic Srpska were allowed to leave their home between 7 AM and 10 AM for three hours on every workday.","https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/bosnia-and-herzegovina/preventing-transmission/physical-distancing/ 
 https://www.rferl.org/a/coronavirus-in-court-bosnia-s-age-based-lockdowns-are-ruled-discriminatory/30574453.html
-https://www.garda.com/crisis24/news-alerts/337196/bosnia-herzegovina-government-eases-covid-19-lockdown-measures-in-republika-srpska-as-of-april-27-update-3",for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-04-28,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-04-29,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-04-30,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
+https://www.garda.com/crisis24/news-alerts/337196/bosnia-herzegovina-government-eases-covid-19-lockdown-measures-in-republika-srpska-as-of-april-27-update-3",for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-04-28,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-04-29,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-04-30,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
 2020-05-01,Bosnia and Herzegovina,7,7b,7,7b,no,"In RS, the curfew was extended for the weekend from 1 May to 3 May. (12 PM to 5 AM). In FBIH, there was a curfew again, too, for this weekend.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/bosnia-and-herzegovina/preventing-transmission/physical-distancing/,for some groups,yes,for some groups,no,yes,no
 2020-05-02,Bosnia and Herzegovina,7,7b,7,7b,no,,,for some groups,yes,for some groups,no,yes,no
 2020-05-03,Bosnia and Herzegovina,7,7b,7,7b,no,,,for some groups,yes,for some groups,no,yes,no
-2020-05-04,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-05-05,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-05-06,Bosnia and Herzegovina,7,7b,7b,7b,no,"For the 6 May holiday, the curfew in RS was extended to 3 PM to 5 AM.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/bosnia-and-herzegovina/preventing-transmission/physical-distancing/,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-05-07,Bosnia and Herzegovina,7,7b,7b,7b,no,"In both, Srpska and Brcko, the curfew times were changed to 10 PM to 5 AM from 7 May",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/bosnia-and-herzegovina/preventing-transmission/physical-distancing/,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-05-08,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-05-09,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-05-10,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-05-11,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-05-12,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
-2020-05-13,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",yes,no
+2020-05-04,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-05-05,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-05-06,Bosnia and Herzegovina,7,7b,7b,7b,no,"For the 6 May holiday, the curfew in RS was extended to 3 PM to 5 AM.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/bosnia-and-herzegovina/preventing-transmission/physical-distancing/,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-05-07,Bosnia and Herzegovina,7,7b,7b,7b,no,"In both, Srpska and Brcko, the curfew times were changed to 10 PM to 5 AM from 7 May",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/bosnia-and-herzegovina/preventing-transmission/physical-distancing/,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-05-08,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-05-09,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-05-10,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-05-11,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-05-12,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
+2020-05-13,Bosnia and Herzegovina,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,yes,no
 2020-05-14,Bosnia and Herzegovina,7,1,1,1,no,"On 14 May, restriction of movement for both minors and the elderly were abolished in both FBIH and RS. As the curfew had already been abolished on 24 April, freedom of movement was restored for the entire population in FBIH. In the RS, the curfew from 10 PM to 5 AM remained in place",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/bosnia-and-herzegovina/preventing-transmission/physical-distancing/,no,locally,yes,locally,yes,no
 2020-05-15,Bosnia and Herzegovina,7,1,1,1,no,,,no,locally,yes,locally,yes,no
 2020-05-16,Bosnia and Herzegovina,7,1,1,1,no,,,no,locally,yes,locally,yes,no
@@ -22247,83 +22247,83 @@ https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/db4c9a
 2020-07-10,Kosovo,7,1,1,1,no,,,no,locally,yes,locally,yes,no
 2020-07-11,Kosovo,7,1,1,1,no,,,no,locally,yes,locally,yes,no
 2020-07-12,Kosovo,7,1,1,1,no,,,no,locally,yes,locally,yes,no
-2020-07-13,Kosovo,7,5b,7b,5b,no,"Wearing masks in public places has been made required by law. All citizens aged over 65, and others who suffer from chronic diseases, were be allowed outside their homes from 5 AM and 10 AM and between 6 PM and 9 PM.","https://dev.euronews.al/en/kosovo/2020/07/13/kosovo-brings-back-partial-isolation-wearing-masks-in-public-required-by-law
-https://www.gazetaexpress.com/kosovo-government-introduces-new-covid-19-restrictions/",for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-14,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-15,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-16,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-17,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-18,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-19,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-20,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-21,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-22,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-23,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-24,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-25,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-26,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-27,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-13,Kosovo,7,5b,7b,5b,no,"Wearing masks in public places has been made required by law. All citizens aged over 65, and others who suffer from chronic diseases, were allowed outside their homes from 5 AM and 10 AM and between 6 PM and 9 PM.","https://dev.euronews.al/en/kosovo/2020/07/13/kosovo-brings-back-partial-isolation-wearing-masks-in-public-required-by-law
+https://www.gazetaexpress.com/kosovo-government-introduces-new-covid-19-restrictions/",for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-14,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-15,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-16,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-17,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-18,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-19,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-20,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-21,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-22,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-23,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-24,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-25,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-26,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-27,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
 2020-07-28,Kosovo,7,5b,7b,5b,no,"Curfew times were shifted to 10.30 PM to 5 AM, but now citizens aged over 65 as well as those suffering from one of several defined chronic illnesses were allowed to move freely between 5 AM and 10 AM as well as between 6 PM and 9 PM. The curfew was applied in in the municipalities of Prishtina, Prizren, Peja, Podujevo, Gjakova, Ferizaj, Lipjan, Drenas, Vushtrri, South Mitrovica, Gjilan, Fushe Kosove and Strpce. Movement restrictions for risk groups are not specified to be valid in some regions, so I assume they were in force everywhere.","https://prishtinainsight.com/new-measures-introduced-in-effort-to-contain-covid-19/
 https://xk.usembassy.gov/health-alert-u-s-embassy-pristina-kosovo-august-4-2020/
-https://global-monitoring.com/gm/page/events/epidemic-0002103.uTQcFDrFFYVK.html?lang=en",for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-29,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-30,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-07-31,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-01,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-02,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-03,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-04,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-05,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-06,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-07,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-08,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-09,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-10,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-11,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-12,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-13,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-14,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-15,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-16,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-17,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-18,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-19,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-20,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-21,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-22,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-23,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-24,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-25,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-26,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-27,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-28,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-29,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-30,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-08-31,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-01,Kosovo,7,5b,7b,5b,no,"The curfew applies at Pristina, Prizren, Pec, Podujevo, Gjakova, Ferizaj, Lipljan, Glogovac, Vucitrn, Mitrovica South, Gjilan, Kosovo Polje and Strpce.",https://global-monitoring.com/gm/page/events/epidemic-0002103.uTQcFDrFFYVK.html?lang=en,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-02,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-03,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-04,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-05,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-06,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-07,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-08,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-09,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-10,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-11,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-12,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-13,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-14,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-15,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-16,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-17,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-18,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-19,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-20,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-21,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-22,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-23,Kosovo,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
-2020-09-24,Kosovo,7,7b,7b,7b,no,,,for some groups,"yes, but locally for some groups",for some groups,"yes, but not locally for some groups",yes,no
+https://global-monitoring.com/gm/page/events/epidemic-0002103.uTQcFDrFFYVK.html?lang=en",for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-29,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-30,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-07-31,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-01,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-02,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-03,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-04,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-05,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-06,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-07,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-08,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-09,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-10,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-11,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-12,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-13,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-14,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-15,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-16,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-17,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-18,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-19,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-20,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-21,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-22,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-23,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-24,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-25,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-26,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-27,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-28,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-29,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-30,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-08-31,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-01,Kosovo,7,5b,7b,5b,no,"The curfew applies at Pristina, Prizren, Pec, Podujevo, Gjakova, Ferizaj, Lipljan, Glogovac, Vucitrn, Mitrovica South, Gjilan, Kosovo Polje and Strpce.",https://global-monitoring.com/gm/page/events/epidemic-0002103.uTQcFDrFFYVK.html?lang=en,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-02,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-03,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-04,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-05,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-06,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-07,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-08,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-09,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-10,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-11,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-12,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-13,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-14,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-15,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-16,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-17,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-18,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-19,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-20,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-21,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-22,Kosovo,7,5b,7b,5b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-23,Kosovo,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
+2020-09-24,Kosovo,7,7b,7b,7b,no,,,for some groups,"yes, but locally only for some groups",for some groups,"yes, but not locally for some groups",yes,no
 2020-09-25,Kosovo,1,1,1,1,no,The nightly curfew was lifted.,https://www.garda.com/crisis24/news-alerts/385436/kosovo-international-entry-restrictions-tighten-whilst-domestic-restrictions-ease-as-of-october-2-update-7,no,no,yes,yes,yes,no
 2020-09-26,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes,no
 2020-09-27,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes,no
@@ -22374,96 +22374,96 @@ https://global-monitoring.com/gm/page/events/epidemic-0002103.uTQcFDrFFYVK.html?
 2020-11-11,Kosovo,5b,1,5b,1,no,,,for some groups,for some groups,for some groups,for some groups,yes,no
 2020-11-12,Kosovo,5b,1,5b,1,no,,,for some groups,for some groups,for some groups,for some groups,yes,no
 2020-11-13,Kosovo,7,1,5b,1,locally," From 13 November on, municipalities were classified into different zones according to the infection numbers. In the municipalities in the """"""""red zone"""""""", a curfew from 7 PM was put in place. Entry and exit from red zones was also restricted at least during the weekend or at night.","https://prishtinainsight.com/pm-hoti-announces-new-measures-to-combat-covid-19/
-https://prishtinainsight.com/new-covid-19-measures-enter-into-force-this-evening/",for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-14,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-15,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-16,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-17,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-18,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-19,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-20,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-21,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-22,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-23,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-24,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-25,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-26,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-27,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-28,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-29,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-11-30,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-01,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-02,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-03,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-04,Kosovo,7,1,5b,1,locally,"Most municipalities were in the red zone, thus had curfews at that time. Entry and exit from these municipalities was not allowed on the weekend. Nationwide, persons over 65 may leave between 6 AM and 10 AM and between 4 PM and 7 PM.",https://www.garda.com/crisis24/news-alerts/407811/kosovo-authorities-update-list-of-municipalities-with-increased-covid-19-activity-as-of-december-4-update-15,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-05,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-06,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-07,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-08,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-09,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-10,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-11,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-12,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-13,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-14,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-15,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-16,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-17,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-18,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-19,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-20,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-21,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-22,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-23,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-24,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-25,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-26,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-27,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-28,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-29,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-30,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2020-12-31,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-01,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-02,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-03,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-04,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-05,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-06,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-07,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-08,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-09,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-10,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-11,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-12,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-13,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-14,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-15,Kosovo,7,1,5b,1,locally,"From 15 January, the curfew was from 9.30 PM to 5 AM.",https://prishtinainsight.com/updated-covid-19-measures-announced/,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-16,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-17,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-18,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-19,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-20,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-21,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-22,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-23,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-24,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-25,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-26,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-27,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-28,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-29,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-30,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-01-31,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-02-01,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-02-02,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-02-03,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-02-04,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-02-05,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-02-06,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-02-07,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-02-08,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-02-09,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
-2021-02-10,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally for some groups",for some groups,no,yes,no
+https://prishtinainsight.com/new-covid-19-measures-enter-into-force-this-evening/",for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-14,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-15,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-16,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-17,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-18,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-19,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-20,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-21,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-22,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-23,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-24,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-25,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-26,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-27,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-28,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-29,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-11-30,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-01,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-02,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-03,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-04,Kosovo,7,1,5b,1,locally,"Most municipalities were in the red zone, thus had curfews at that time. Entry and exit from these municipalities was not allowed on the weekend. Nationwide, persons over 65 may leave between 6 AM and 10 AM and between 4 PM and 7 PM.",https://www.garda.com/crisis24/news-alerts/407811/kosovo-authorities-update-list-of-municipalities-with-increased-covid-19-activity-as-of-december-4-update-15,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-05,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-06,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-07,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-08,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-09,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-10,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-11,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-12,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-13,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-14,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-15,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-16,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-17,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-18,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-19,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-20,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-21,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-22,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-23,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-24,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-25,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-26,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-27,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-28,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-29,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-30,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2020-12-31,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-01,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-02,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-03,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-04,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-05,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-06,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-07,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-08,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-09,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-10,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-11,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-12,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-13,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-14,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-15,Kosovo,7,1,5b,1,locally,"From 15 January, the curfew was from 9.30 PM to 5 AM.",https://prishtinainsight.com/updated-covid-19-measures-announced/,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-16,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-17,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-18,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-19,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-20,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-21,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-22,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-23,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-24,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-25,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-26,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-27,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-28,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-29,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-30,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-01-31,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-02-01,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-02-02,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-02-03,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-02-04,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-02-05,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-02-06,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-02-07,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-02-08,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-02-09,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
+2021-02-10,Kosovo,7,1,5b,1,locally,,,for some groups,"yes, but locally only for some groups",for some groups,no,yes,no
 2021-02-11,Kosovo,1,1,1,1,no,The curfew and movement restrictions for the elderly were abolished.,"https://prishtinainsight.com/curfew-scrapped-amid-controversy/
 https://drive.google.com/file/d/1mLCGV0Bvgtf91aKvxocwk5PiDmV2U6Jc/view",no,no,yes,yes,yes,yes
 2021-02-12,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes,yes
@@ -28748,45 +28748,45 @@ https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/republic
 2020-04-05,Moldova,6,6,6,6,locally,,,yes,yes,no,no,no,no
 2020-04-06,Moldova,6,6,6,6,locally,,,yes,yes,no,no,no,no
 2020-04-07,Moldova,6,6,6,6,locally,,,yes,yes,no,no,no,no
-2020-04-08,Moldova,6,6,6b,6b,locally,"While the stay-at-home order for people over 63 remains, others (outside of quarantined zones) were not subject to it anymore, yet movement of more than two persons remains banned. People over 63 may go outside for work reasons or between 9 AM and 1 PM for other essential reasons (purchasing food or medicine)",https://www.moldpres.md/en/news/2020/04/08/20003032,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-09,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-10,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-11,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-12,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-13,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-14,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-15,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
+2020-04-08,Moldova,6,6,6b,6b,locally,"While the stay-at-home order for people over 63 remains, others (outside of quarantined zones) were not subject to it anymore, yet movement of more than two persons remains banned. People over 63 may go outside for work reasons or between 9 AM and 1 PM for other essential reasons (purchasing food or medicine)",https://www.moldpres.md/en/news/2020/04/08/20003032,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-09,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-10,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-11,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-12,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-13,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-14,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-15,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
 2020-04-16,Moldova,6,6,6b,6b,locally,"In the independently ruled Transnistria, mask wearing was made mandatory in all public spaces. It is not completely clear whether this includes all outdoor situations, but it seems it does not. There is little information on how restrictions continued. The quarantine regime has been prolonged several times and still seems to be in place, but walking and exercise appear to be tolerated. ","https://www.ipn.md/en/mask-wearing-mandatory-in-transnistrian-region-7967_1072930.html
-https://novostipmr.com/en/news/20-09-03/president-held-meeting-operational-headquarters","yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-17,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-18,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-19,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-20,Moldova,6,6,6b,6b,locally,"A news report on 20 April listed Soroca city, Stefan Voda and Glodeni towns, Carahasani Talmaza and Branzeni villages as under quarantine.",https://www.moldpres.md/en/news/2020/04/20/20003345,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-21,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-22,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-23,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-24,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-25,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-26,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-27,Moldova,6,6,6b,6b,locally,"On 27 April, walking in parks was added to the list of exceptions for the lockdown. It is unclear when the stay-at-home order ended for most people. For those over 63, it seem to have never stopped.",https://www.ipn.md/en/clarification-on-presence-in-public-places-7967_1073184.html,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-28,Moldova,6,6,6b,6b,locally,"On that day, quarantine regime was maintained in seven settlements: Soroca city, Stefan Voda town, Talmaza village, Stefan Voda district, Glodeni town, Branzeni village, Edinet district, settlements Etulia and Cismichioi from the Autonomous Territorial Unit of Gagauzia.",https://www.moldpres.md/en/news/2020/04/28/20003544,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-29,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-04-30,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-01,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-02,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-03,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-04,Moldova,6,6,6b,6b,locally,"As of 4 May, quarantine was currently imposed on """"""""Soroca municipality, Stefan Voda town, Talmaza village, Stefan Voda district, Glodeni town, Branzeni village, Edinet district, settlements Etulia and Cismichioi from the Autonomous Territorial Unit of Gagauzia, Valea Perjei from Cimislia district.""""""""",http://web.archive.org/web/20200518224548/https://gov.md/en/content/moldovan-single-command-centre-emergency-state-holds-meeting,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-05,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-06,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-07,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-08,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-09,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-10,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-11,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-12,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-13,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-14,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
-2020-05-15,Moldova,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",locally,no
+https://novostipmr.com/en/news/20-09-03/president-held-meeting-operational-headquarters","yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-17,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-18,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-19,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-20,Moldova,6,6,6b,6b,locally,"A news report on 20 April listed Soroca city, Stefan Voda and Glodeni towns, Carahasani Talmaza and Branzeni villages as under quarantine.",https://www.moldpres.md/en/news/2020/04/20/20003345,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-21,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-22,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-23,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-24,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-25,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-26,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-27,Moldova,6,6,6b,6b,locally,"On 27 April, walking in parks was added to the list of exceptions for the lockdown. It is unclear when the stay-at-home order ended for most people. For those over 63, it seem to have never stopped.",https://www.ipn.md/en/clarification-on-presence-in-public-places-7967_1073184.html,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-28,Moldova,6,6,6b,6b,locally,"On that day, quarantine regime was maintained in seven settlements: Soroca city, Stefan Voda town, Talmaza village, Stefan Voda district, Glodeni town, Branzeni village, Edinet district, settlements Etulia and Cismichioi from the Autonomous Territorial Unit of Gagauzia.",https://www.moldpres.md/en/news/2020/04/28/20003544,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-29,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-04-30,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-01,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-02,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-03,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-04,Moldova,6,6,6b,6b,locally,"As of 4 May, quarantine was currently imposed on """"""""Soroca municipality, Stefan Voda town, Talmaza village, Stefan Voda district, Glodeni town, Branzeni village, Edinet district, settlements Etulia and Cismichioi from the Autonomous Territorial Unit of Gagauzia, Valea Perjei from Cimislia district.""""""""",http://web.archive.org/web/20200518224548/https://gov.md/en/content/moldovan-single-command-centre-emergency-state-holds-meeting,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-05,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-06,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-07,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-08,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-09,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-10,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-11,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-12,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-13,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-14,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
+2020-05-15,Moldova,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,locally,no
 2020-05-16,Moldova,6b,6b,6b,6b,no,"According to Moldova's State News Agency, the quarantine of Stedan Voda town ended on that day. It is not clear whether this was the last quarantine in Moldova, but I assume so as I found no news on further quarantines. Persons older than 63 were further not allowed to go out, unless in an emergency.","https://www.moldpres.md/en/news/2020/05/15/20003989
 https://www.ipn.md/en/public-health-emergency-declared-in-moldova-until-june-30-7967_1073563.html",for some groups,for some groups,for some groups,for some groups,no,yes
 2020-05-17,Moldova,6b,6b,6b,6b,no,,,for some groups,for some groups,for some groups,for some groups,no,yes
@@ -29088,55 +29088,55 @@ https://www.ipn.md/en/public-health-emergency-declared-in-moldova-until-june-30-
 2021-03-08,Moldova,7b,7b,6b,6b,no,,,for some groups,for some groups,for some groups,for some groups,locally,no
 2021-03-09,Moldova,7b,7b,6b,6b,no,,,for some groups,for some groups,for some groups,for some groups,locally,no
 2021-03-10,Moldova,7,7b,6b,6b,no,"From 10 March 2021 to 24 March, a 11 PM to 7 AM curfew was imposed in six localities in Drochia district.
-",https://www.ipn.md/en/dusk-to-dawn-curfew-imposed-in-six-localities-of-drochia-7967_1080217.html,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",locally,no
-2021-03-11,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",locally,no
-2021-03-12,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",locally,no
-2021-03-13,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",locally,no
-2021-03-14,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",locally,no
-2021-03-15,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",locally,no
-2021-03-16,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",locally,no
-2021-03-17,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",locally,no
-2021-03-18,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally for some groups",for some groups,"no, but locally for some groups",locally,no
-2021-03-19,Moldova,7,7,7b,7b,no,"From 19 March, masks had to be worn in all open or closed spaces throughout the country. In municipalities with a high incidence, stay-at-home orders were introduced for the entire population (on top of the existing one for older people). It is not clear whether these were indeed implemented however.",https://www.moldpres.md/en/news/2021/03/20/21002116,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-20,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-21,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-22,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-23,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-24,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-25,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-26,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-27,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-28,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-29,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-30,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-03-31,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-01,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-02,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
+",https://www.ipn.md/en/dusk-to-dawn-curfew-imposed-in-six-localities-of-drochia-7967_1080217.html,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,locally,no
+2021-03-11,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,locally,no
+2021-03-12,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,locally,no
+2021-03-13,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,locally,no
+2021-03-14,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,locally,no
+2021-03-15,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,locally,no
+2021-03-16,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,locally,no
+2021-03-17,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,locally,no
+2021-03-18,Moldova,7,7b,6b,6b,no,,,for some groups,"yes, but locally only for some groups",for some groups,locally for some groups,locally,no
+2021-03-19,Moldova,7,7,7b,7b,no,"From 19 March, masks had to be worn in all open or closed spaces throughout the country. In municipalities with a high incidence, stay-at-home orders were introduced for the entire population (on top of the existing one for older people). It is not clear whether these were indeed implemented however.",https://www.moldpres.md/en/news/2021/03/20/21002116,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-20,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-21,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-22,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-23,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-24,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-25,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-26,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-27,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-28,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-29,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-30,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-03-31,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-01,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-02,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
 2021-04-03,Moldova,7,7,7b,7b,no,"From 3 April 2021, a curfew from 11 PM to 5 AM was imposed on Balti and Chisinau. Being outside was just allowed for professional purposes, or to go to the doctor or drugstore. Access to public places """"""""such as parks, playgrounds, sports grounds and recreational areas"""""""" was not allowed in Balti but was then intended to be lifted after few days.","https://www.moldpres.md/en/news/2021/04/02/21002488
 https://www.ipn.md/en/walks-in-parks-and-stays-at-playgrounds-in-chisinau-permitted-7967_1080778.html
-https://www.ipn.md/en/new-restrictions-imposed-for-period-of-state-of-emergency-7967_1080746.html","yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-04,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-05,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-06,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-07,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-08,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-09,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-10,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-11,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-12,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-13,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-14,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-15,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-16,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-17,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-18,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-19,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-20,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-21,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-22,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-23,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-24,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
-2021-04-25,Moldova,7,7,7b,7b,no,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",yes,no
+https://www.ipn.md/en/new-restrictions-imposed-for-period-of-state-of-emergency-7967_1080746.html","yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-04,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-05,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-06,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-07,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-08,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-09,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-10,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-11,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-12,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-13,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-14,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-15,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-16,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-17,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-18,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-19,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-20,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-21,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-22,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-23,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-24,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
+2021-04-25,Moldova,7,7,7b,7b,no,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,yes,no
 2021-04-26,Moldova,7b,7b,7b,7b,no,The curfew in Balti and Chisinau was discontinued.,https://www.ipn.md/en/curfew-imposed-on-april-1-to-be-lifted-7967_1081188.html,for some groups,for some groups,for some groups,for some groups,yes,no
 2021-04-27,Moldova,7b,7b,7b,7b,no,,,for some groups,for some groups,for some groups,for some groups,yes,yes
 2021-04-28,Moldova,7b,7b,7b,7b,no,,,for some groups,for some groups,for some groups,for some groups,yes,yes
@@ -33154,8 +33154,8 @@ https://english.republika.mk/news/macedonia/filipce-announced-new-measures-to-li
 2020-04-01,North Macedonia,6,6b,6,6b,locally,,,for some groups,yes,for some groups,no,no,no
 2020-04-02,North Macedonia,6,6b,6,6b,locally,,,for some groups,yes,for some groups,no,no,no
 2020-04-03,North Macedonia,6,6b,6,6b,locally,"A complete ban on movement during the weekend was imposed on the municipality of Kumanovo. On weekends, police, army, health professionals, and farmers were allowed to move around and exclusively for work.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/north-macedonia/preventing-transmission/physical-distancing/,for some groups,yes,for some groups,no,no,no
-2020-04-04,North Macedonia,6,6,6,6b,locally,,,locally for some groups,yes,"no, but locally for some groups",no,no,no
-2020-04-05,North Macedonia,6,6,6,6b,locally,,,locally for some groups,yes,"no, but locally for some groups",no,no,no
+2020-04-04,North Macedonia,6,6,6,6b,locally,,,locally for some groups,yes,locally for some groups,no,no,no
+2020-04-05,North Macedonia,6,6,6,6b,locally,,,locally for some groups,yes,locally for some groups,no,no,no
 2020-04-06,North Macedonia,6,6b,6,6b,locally,,,for some groups,yes,for some groups,no,no,no
 2020-04-07,North Macedonia,6,6b,6,6b,locally,,,for some groups,yes,for some groups,no,no,no
 2020-04-08,North Macedonia,6,6b,6,6b,locally,"From 8 April, curfew times were shifted to 4 PM to 5 AM on weekdays and to 4 PM on Friday until 5 AM on Monday over the entire weekend with the same exceptions as in Kumanovo before. There were three time frames of 30 minutes each on weekend days where people were allowed to walk a pet within 100 m from the house. Much stricter time frames were decided on for people over 67 or under 18. Citizens were not allowed to gather in public with more than one other person.","https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/north-macedonia/preventing-transmission/physical-distancing/
@@ -43368,165 +43368,165 @@ https://balkaninsight.com/2020/06/09/covid-19-lockdown-of-roma-villages-creates-
 2021-01-24,Slovak Republic,3,3,3,3,yes,,,yes,yes,yes,yes,yes,no
 2021-01-25,Slovak Republic,3,3,3,3,yes,,,yes,yes,yes,yes,yes,no
 2021-01-26,Slovak Republic,3,3,3,3,yes,,,yes,yes,yes,yes,yes,no
-2021-01-27,Slovak Republic,5b,5b,3,3,yes,"A mass screening was performed. With a negative test, as of 27 January, exceptions from the stay-at-home order remained similar to those before. In districts with a small incidence, measures were loosened. For districts with higher rates of positive tests in the mass screening, those between 15 and 65 who did not do a test were not granted the same exceptions from the curfew. Outdoor activities were not allowed for them anymore except from walking cats or dogs within 1000m from residence.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/slovakia/preventing-transmission/physical-distancing/,yes,yes,for some groups,for some groups,yes,no
-2021-01-28,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-01-29,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-01-30,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-01-31,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-01,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-02,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-03,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-04,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-05,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-06,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-07,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-08,Slovak Republic,5b,5b,3,3,yes,"From 8 February, a """"""""traffic light"""""""" system was introduced. In high incidence areas, a negative test was required on a weekly basis in order to go outside as before, in other areas the frequency of testing was lower. ",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/slovakia/preventing-transmission/physical-distancing/,yes,yes,for some groups,for some groups,yes,no
-2021-02-09,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-10,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-11,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-12,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-13,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-14,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-15,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-16,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-17,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-18,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-19,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-20,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-21,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-22,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-23,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-24,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-25,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-26,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-27,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-02-28,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-03-01,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
-2021-03-02,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,for some groups,for some groups,yes,no
+2021-01-27,Slovak Republic,5b,5b,3,3,yes,"A mass screening was performed. With a negative test, as of 27 January, exceptions from the stay-at-home order remained similar to those before. In districts with a low incidence, measures were loosened. For districts with higher rates of positive tests in the mass screening, those between 15 and 65 who did not do a test were not granted the same exceptions from the curfew. Outdoor activities were not allowed for them anymore except from walking cats or dogs within 1000m from residence.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/slovakia/preventing-transmission/physical-distancing/,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-01-28,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-01-29,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-01-30,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-01-31,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-01,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-02,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-03,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-04,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-05,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-06,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-07,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-08,Slovak Republic,5b,5b,3,3,yes,"From 8 February, a """"""""traffic light"""""""" system was introduced. In high incidence areas, a negative test was required on a weekly basis in order to go outside as before, in other areas the frequency of testing was lower. ",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/slovakia/preventing-transmission/physical-distancing/,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-09,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-10,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-11,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-12,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-13,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-14,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-15,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-16,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-17,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-18,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-19,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-20,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-21,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-22,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-23,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-24,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-25,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-26,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-27,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-02-28,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-03-01,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
+2021-03-02,Slovak Republic,5b,5b,3,3,yes,,,yes,yes,"yes, but not locally for some groups","yes, but not locally for some groups",yes,no
 2021-03-03,Slovak Republic,7,5b,7,3,yes,"Most exceptions from the stay-at-home order were granted between 5 AM and 8 PM. After 8 PM, a stricter curfew was in place with the exceptions of work and emergencies.","https://medicalxpress.com/news/2021-03-slovakia-imposes-overnight-curfew-covid.html
 https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/slovakia/preventing-transmission/physical-distancing/
-https://spectator.sme.sk/c/22624558/curfew-to-be-toughened-up-again-no-evening-visits-to-the-countryside.html",yes,yes,for some groups,no,yes,no
-2021-03-04,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-05,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-06,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-07,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-08,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-09,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-10,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-11,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-12,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-13,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-14,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-15,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-16,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-17,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-18,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-19,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-20,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-21,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-22,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-23,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-24,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-25,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-26,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-27,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-28,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-29,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-30,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-03-31,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-01,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-02,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-03,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-04,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-05,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-06,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-07,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-08,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-09,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-10,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-11,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-12,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-13,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-14,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-15,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-16,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-17,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-18,Slovak Republic,7,5b,7,3,yes,,,yes,yes,for some groups,no,yes,no
-2021-04-19,Slovak Republic,7,5b,7,2,locally,"A test to travel to another district was longer required in tier 4 districts. Outdoors, masks were mandatory when a distance of 5m (or 2m according to a table in linked news article) was kept. This is likely impossible in cities.","https://spectator.sme.sk/c/22639672/news-digest-curfew-to-be-partially-lifted-as-of-monday.html
-https://spectator.sme.sk/c/22637661/measures-will-be-lifted-from-april-19-what-will-open.html",yes,yes,for some groups,no,locally,no
-2021-04-20,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-04-21,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-04-22,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-04-23,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-04-24,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-04-25,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-04-26,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-04-27,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-04-28,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-04-29,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-04-30,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-05-01,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-05-02,Slovak Republic,7,5b,7,2,locally,,,yes,yes,for some groups,no,locally,no
-2021-05-03,Slovak Republic,7,5b,7,0,no,"In districts with a higher incidence, there remained a stay-at-home order from 5 AM to 1 AM with a stricter night curfew from 9 PM to 1 AM whereas in most regions, the night curfew from 9 PM to 1 AM remained in place. Travelling outside the district was allowed outside curfew times.",https://spectator.sme.sk/c/22648739/curfew-rules-will-change-most-restrictions-will-be-kept-only-in-districts-in-a-bad-situation.html,locally for some groups,yes,for some groups,no,locally,no
-2021-05-04,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,for some groups,no,locally,no
-2021-05-05,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,for some groups,no,locally,no
-2021-05-06,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,for some groups,no,locally,no
-2021-05-07,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,for some groups,no,locally,no
-2021-05-08,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,for some groups,no,locally,no
-2021-05-09,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,for some groups,no,locally,no
-2021-05-10,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,for some groups,no,locally,no
-2021-05-11,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,for some groups,no,locally,no
-2021-05-12,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,for some groups,no,locally,no
-2021-05-13,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,for some groups,no,locally,no
+https://spectator.sme.sk/c/22624558/curfew-to-be-toughened-up-again-no-evening-visits-to-the-countryside.html",yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-04,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-05,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-06,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-07,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-08,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-09,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-10,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-11,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-12,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-13,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-14,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-15,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-16,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-17,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-18,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-19,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-20,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-21,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-22,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-23,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-24,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-25,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-26,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-27,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-28,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-29,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-30,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-03-31,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-01,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-02,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-03,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-04,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-05,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-06,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-07,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-08,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-09,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-10,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-11,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-12,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-13,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-14,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-15,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-16,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-17,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-18,Slovak Republic,7,5b,7,3,yes,,,yes,yes,"yes, but not locally for some groups",no,yes,no
+2021-04-19,Slovak Republic,7,5b,7,2,locally,"A test to travel to another district was no longer required in tier 4 districts. Outdoors, masks were mandatory when a distance of 5m (or 2m according to a table in linked news article) was kept. This is likely impossible in cities.","https://spectator.sme.sk/c/22639672/news-digest-curfew-to-be-partially-lifted-as-of-monday.html
+https://spectator.sme.sk/c/22637661/measures-will-be-lifted-from-april-19-what-will-open.html",yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-20,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-21,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-22,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-23,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-24,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-25,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-26,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-27,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-28,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-29,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-04-30,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-01,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-02,Slovak Republic,7,5b,7,2,locally,,,yes,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-03,Slovak Republic,7,5b,7,0,no,"In districts with a higher incidence, there remained a stay-at-home order from 5 AM to 1 AM with a stricter night curfew from 9 PM to 1 AM whereas in most regions, the night curfew from 9 PM to 1 AM remained in place. Travelling outside the district was allowed outside curfew times.",https://spectator.sme.sk/c/22648739/curfew-rules-will-change-most-restrictions-will-be-kept-only-in-districts-in-a-bad-situation.html,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-04,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-05,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-06,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-07,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-08,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-09,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-10,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-11,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-12,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
+2021-05-13,Slovak Republic,7,5b,7,0,no,,,locally for some groups,yes,"yes, but not locally for some groups",no,locally,no
 2021-05-14,Slovak Republic,7,5b,0,0,no,"The national state of emergency was lifted including the national curfew. In districts in the red or dark red tier, a curfew from 9 PM to 1 AM remained in place according to the <93>Covid Automat<94> tier system. According to another article, could not be applied anymore however, i.e. in fact there are no curfews anymore from this date. In the dark red tier, a curfew from 5 AM to 9 PM applies, too. Restrictions remained locally. Wearing masks was still required outside when closer than 5m to people of other households, which is probably hard to avoid in cities. In the red, dark red, and orange tiers, wearing a mask was mandated outdoors whenever closer than 2m to someone outside the own household.","https://www.reuters.com/article/health-coronavirus-slovakia-idUSL1N2N1140
 https://spectator.sme.sk/c/22646282/slovakia-is-gradually-opening-up-what-covid-measures-are-in-place.html#Curfew
 https://spectator.sme.sk/c/22648739/curfew-rules-will-change-most-restrictions-will-be-kept-only-in-districts-in-a-bad-situation.html?ref=njctse
 https://spectator.sme.sk/c/22659287/anti-pandemic-measures-change-again-some-restaurants-will-be-able-to-serve-indoors.html
-https://spectator.sme.sk/c/22751599/curfew-should-apply-in-dark-red-and-black-districts-but-not-without-national-emergency.html",locally for some groups,locally,locally for some groups,locally,locally,no
-2021-05-15,Slovak Republic,7,5b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-16,Slovak Republic,7,5b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-17,Slovak Republic,6,4b,0,0,no,Wearing masks outdoors is longer mandated in the dark red tiers when a distance of 2m to others can<92>t be kept.,https://spectator.sme.sk/c/22659287/anti-pandemic-measures-change-again-some-restaurants-will-be-able-to-serve-indoors.html,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-18,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-19,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-20,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-21,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-22,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-23,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-24,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-25,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-26,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-27,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-28,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-29,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-30,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-05-31,Slovak Republic,6,4b,0,0,no,"three districts remained in the red tier and thus had a curfew and daytime restrictions on movement. (Bianska Stiavnica, Kysucke Nove Mesto, and Myjava)",https://spectator.sme.sk/c/22668457/pandemic-situation-in-the-capital-improves-more-restrictions-will-be-lifted.html,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-01,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-02,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-03,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-04,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-05,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-06,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-07,Slovak Republic,6,4b,0,0,no,Three districts remained with curfew and restrictions on movement.,https://spectator.sme.sk/c/22673609/two-districts-will-enjoy-the-most-freedom-since-the-lockdown.html,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-08,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-09,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-10,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-11,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-12,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-13,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-14,Slovak Republic,6,4b,0,0,no,"Bianska Stiavnica moved to the <93>light red<94> tier, 2 districts remained under curfew.",https://spectator.sme.sk/c/22678464/slovakia-is-gradually-turning-green-more-districts-will-be-in-the-best-possible-tier.html,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-15,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-16,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-17,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-18,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-19,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-20,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-21,Slovak Republic,6,4b,0,0,no,Myjava was the last district to remain under curfew and movement restrictions.,https://spectator.sme.sk/c/22683338/pandemic-situation-improves-more-districts-lifting-measures.html,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-22,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-23,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-24,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-25,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-26,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
-2021-06-27,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,locally for some groups,locally,locally,yes
+https://spectator.sme.sk/c/22751599/curfew-should-apply-in-dark-red-and-black-districts-but-not-without-national-emergency.html",locally for some groups,locally,"yes, but not locally for some groups",locally,locally,no
+2021-05-15,Slovak Republic,7,5b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-16,Slovak Republic,7,5b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-17,Slovak Republic,6,4b,0,0,no,Wearing masks outdoors is longer mandated in the dark red tiers when a distance of 2m to others can<92>t be kept.,https://spectator.sme.sk/c/22659287/anti-pandemic-measures-change-again-some-restaurants-will-be-able-to-serve-indoors.html,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-18,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-19,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-20,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-21,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-22,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-23,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-24,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-25,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-26,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-27,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-28,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-29,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-30,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-05-31,Slovak Republic,6,4b,0,0,no,"three districts remained in the red tier and thus had a curfew and daytime restrictions on movement. (Bianska Stiavnica, Kysucke Nove Mesto, and Myjava)",https://spectator.sme.sk/c/22668457/pandemic-situation-in-the-capital-improves-more-restrictions-will-be-lifted.html,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-01,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-02,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-03,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-04,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-05,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-06,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-07,Slovak Republic,6,4b,0,0,no,Three districts remained with curfew and restrictions on movement.,https://spectator.sme.sk/c/22673609/two-districts-will-enjoy-the-most-freedom-since-the-lockdown.html,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-08,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-09,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-10,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-11,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-12,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-13,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-14,Slovak Republic,6,4b,0,0,no,"Bianska Stiavnica moved to the <93>light red<94> tier, 2 districts remained under curfew.",https://spectator.sme.sk/c/22678464/slovakia-is-gradually-turning-green-more-districts-will-be-in-the-best-possible-tier.html,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-15,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-16,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-17,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-18,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-19,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-20,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-21,Slovak Republic,6,4b,0,0,no,Myjava was the last district to remain under curfew and movement restrictions.,https://spectator.sme.sk/c/22683338/pandemic-situation-improves-more-districts-lifting-measures.html,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-22,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-23,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-24,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-25,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-26,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
+2021-06-27,Slovak Republic,6,4b,0,0,no,,,locally for some groups,locally,"yes, but not locally for some groups",locally,locally,yes
 2021-06-28,Slovak Republic,0,0,0,0,no,"No district was under a curfew anymore. The same rules were still in place, with curfews and stay-at-home orders automatically imposed if the local incidence was high enough.",https://spectator.sme.sk/c/22688501/third-wave-cannot-be-handled-without-vaccination-president-asks-people-to-stop-being-hesitant.html,no,no,yes,yes,no,no
 2021-06-29,Slovak Republic,0,0,0,0,no,,,no,no,yes,yes,no,no
 2021-06-30,Slovak Republic,0,0,0,0,no,,,no,no,yes,yes,no,no
@@ -48589,35 +48589,35 @@ https://www.hurriyetdailynews.com/turkey-imposes-partial-curfew-for-citizens-old
 2020-04-08,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-04-09,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-04-10,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
-2020-04-11,Turkey,6,6,6b,6b,locally,A weekend curfew was introduced in 31 provinces. This included the weekends 11 and 12 April and 18 and 19 April.,https://www.hurriyetdailynews.com/turkey-to-continue-with-weekend-curfews-153836,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-12,Turkey,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
+2020-04-11,Turkey,6,6,6b,6b,locally,A weekend curfew was introduced in 31 provinces. This included the weekends 11 and 12 April and 18 and 19 April.,https://www.hurriyetdailynews.com/turkey-to-continue-with-weekend-curfews-153836,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-12,Turkey,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
 2020-04-13,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-04-14,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-04-15,Turkey,6b,6b,6b,6b,locally,"On 15 April, 227 residential areas in 58 provinces were currently quarantined.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/turkey/preventing-transmission/physical-distancing/,for some groups,for some groups,for some groups,for some groups,no,no
 2020-04-16,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-04-17,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
-2020-04-18,Turkey,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-19,Turkey,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
+2020-04-18,Turkey,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-19,Turkey,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
 2020-04-20,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-04-21,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-04-22,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
-2020-04-23,Turkey,6,6,6b,6b,locally,A 4-day lockdown was imposed between 23 April and 27 April on 31 provinces.,https://www.hurriyetdailynews.com/turkey-to-impose-four-day-lockdown-154053,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-24,Turkey,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-25,Turkey,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-26,Turkey,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-04-27,Turkey,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
+2020-04-23,Turkey,6,6,6b,6b,locally,A 4-day lockdown was imposed between 23 April and 27 April on 31 provinces.,https://www.hurriyetdailynews.com/turkey-to-impose-four-day-lockdown-154053,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-24,Turkey,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-25,Turkey,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-26,Turkey,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-04-27,Turkey,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
 2020-04-28,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-04-29,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-04-30,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
-2020-05-01,Turkey,6,6,6b,6b,locally,A 3-day lockdown was imposed between 1 May and 3 May on 31 provinces.,https://www.hurriyetdailynews.com/turkey-lifts-3-day-coronavirus-curfew-in-31-provinces-154435,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-05-02,Turkey,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
-2020-05-03,Turkey,6,6,6b,6b,locally,,,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
+2020-05-01,Turkey,6,6,6b,6b,locally,A 3-day lockdown was imposed between 1 May and 3 May on 31 provinces.,https://www.hurriyetdailynews.com/turkey-lifts-3-day-coronavirus-curfew-in-31-provinces-154435,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-05-02,Turkey,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
+2020-05-03,Turkey,6,6,6b,6b,locally,,,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
 2020-05-04,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-05-05,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-05-06,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-05-07,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
 2020-05-08,Turkey,6b,6b,6b,6b,locally,,,for some groups,for some groups,for some groups,for some groups,no,no
-2020-05-09,Turkey,6,6,6b,6b,locally,The weekend curfew was imposed on 9 and 10 May in 24 provinces.,https://www.hurriyetdailynews.com/turkey-imposes-weekend-virus-curfew-in-24-provinces-154598,"yes, but locally for some groups","yes, but locally for some groups","no, but locally for some groups","no, but locally for some groups",no,no
+2020-05-09,Turkey,6,6,6b,6b,locally,The weekend curfew was imposed on 9 and 10 May in 24 provinces.,https://www.hurriyetdailynews.com/turkey-imposes-weekend-virus-curfew-in-24-provinces-154598,"yes, but locally only for some groups","yes, but locally only for some groups",locally for some groups,locally for some groups,no,no
 2020-05-10,Turkey,7b,7b,7b,7b,locally,"On 10 May and on following Sundays, people over 65 were allowed to go out between 11 AM and 3 PM. They were allowed to go out within walking distance from their home and wearing masks. Children under 14 were allowed the same on 13 May during the same hours and 15 to 20 year olds on 15 May. These age groups (young people and elderly) had to wear a mask at all times when outside. In 23 provinces, a general mask mandate was imposed. In the following weeks (unclear when exactly) the stay-at-home order was lifted for 18 to 20 years olds and those under 18 were allowed outside on Wednesdays for some hours.","https://www.aa.com.tr/en/health/turkey-eases-covid-19-curfew-for-65-youngsters/1831723
 http://tuerkismagazin.com/2020/05/16/maskenpflicht-in-vielen-regionen-der-tuerkei-eingefuehrt/
 https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/turkey/preventing-transmission/physical-distancing/
@@ -48800,22 +48800,22 @@ https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/turkey/p
 2020-11-01,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,yes,for some groups,yes,yes
 2020-11-02,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,yes,for some groups,yes,yes
 2020-11-03,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,yes,for some groups,yes,yes
-2020-11-04,Turkey,7b,5b,7b,5b,no,"It was decided by Erzurum Governorship, that people over 65 were allowed in the streets between 10 AM and 4 PM.",,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-05,Turkey,7b,5b,7b,5b,no,"In Istanbul, people over 65 were allowed in the streets between 10 AM and 4 PM.",,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-06,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-07,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-08,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-09,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-10,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-11,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-12,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-13,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-14,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-15,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-16,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-17,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-18,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
-2020-11-19,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but locally for some groups",for some groups,yes,yes
+2020-11-04,Turkey,7b,5b,7b,5b,no,"It was decided by Erzurum Governorship, that people over 65 were allowed in the streets between 10 AM and 4 PM.",,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-05,Turkey,7b,5b,7b,5b,no,"In Istanbul, people over 65 were allowed in the streets between 10 AM and 4 PM.",,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-06,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-07,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-08,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-09,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-10,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-11,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-12,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-13,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-14,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-15,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-16,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-17,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-18,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
+2020-11-19,Turkey,7b,5b,7b,5b,no,,,for some groups,for some groups,"yes, but not locally for some groups",for some groups,yes,yes
 2020-11-20,Turkey,7,5b,7,5b,no,"In all Turkish provinces, citizens 65 or older were allowed to go out  between 10 AM and 1 PM and citizens under 20 between 1 PM and 4 PM. On weekends, a curfew for everyone was in place from 8 PM to 10 AM with the exception of foreign tourists.",http://www.xinhuanet.com/english/2020-11/18/c_139524906.htm,for some groups,yes,for some groups,no,yes,yes
 2020-11-21,Turkey,7,5b,7,5b,no,,,for some groups,yes,for some groups,no,yes,yes
 2020-11-22,Turkey,7,5b,7,5b,no,,,for some groups,yes,for some groups,no,yes,yes
@@ -48911,73 +48911,73 @@ https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/turkey/p
 2021-02-19,Turkey,7,5b,7,5b,locally,,,for some groups,yes,for some groups,no,yes,no
 2021-02-20,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
 2021-02-21,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
-2021-02-22,Turkey,7,7,7,5b,locally,The national government empowered provincial authorities to implement local quarantines and curfews based on epidemiological data. Several districts were put under local stay-at-home orders.,https://crisis24.garda.com/alerts/2021/02/turkey-authorities-will-introduce-a-covid-19-normalization-system-based-on-provincial-level-epidemiological-risk-from-march-1-update-32,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-02-23,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-02-24,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-02-25,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-02-26,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
+2021-02-22,Turkey,7,7,7,5b,locally,The national government empowered provincial authorities to implement local quarantines and curfews based on epidemiological data. Several districts were put under local stay-at-home orders.,https://crisis24.garda.com/alerts/2021/02/turkey-authorities-will-introduce-a-covid-19-normalization-system-based-on-provincial-level-epidemiological-risk-from-march-1-update-32,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-02-23,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-02-24,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-02-25,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-02-26,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
 2021-02-27,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
 2021-02-28,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
-2021-03-01,Turkey,7,7,7,5b,locally,"Turkey introduced a tiered system wherer restrictions were eased or tightened based on infection rates and vaccination rates at a provincial level. While the source says that the nationwide weekend curfew remained, the same source later said this was not the case (see below).",https://crisis24.garda.com/alerts/2021/02/turkey-authorities-will-introduce-a-covid-19-normalization-system-based-on-provincial-level-epidemiological-risk-from-march-1-update-32,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-02,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-03,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-04,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-05,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-06,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-07,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-08,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-09,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-10,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-11,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-12,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-13,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-14,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-15,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-16,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-17,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-18,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-19,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-20,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-21,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-22,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-23,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-24,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-25,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-26,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-27,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-28,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-29,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-30,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-03-31,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-01,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-02,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
+2021-03-01,Turkey,7,7,7,5b,locally,"Turkey introduced a tiered system wherer restrictions were eased or tightened based on infection rates and vaccination rates at a provincial level. While the source says that the nationwide weekend curfew remained, the same source later said this was not the case (see below).",https://crisis24.garda.com/alerts/2021/02/turkey-authorities-will-introduce-a-covid-19-normalization-system-based-on-provincial-level-epidemiological-risk-from-march-1-update-32,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-02,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-03,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-04,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-05,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-06,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-07,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-08,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-09,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-10,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-11,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-12,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-13,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-14,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-15,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-16,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-17,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-18,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-19,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-20,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-21,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-22,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-23,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-24,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-25,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-26,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-27,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-28,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-29,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-30,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-03-31,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-01,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-02,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
 2021-04-03,Turkey,7,7,7,7,locally,"From this day, the weekend curfew applied to the entire territory again. It<92>s unclear whether this hasn<92>t been the time before, but presumably, there had been provinces without a weekend lockdown the past weeks.","https://crisis24.garda.com/alerts/2021/03/turkey-government-tightens-domestic-covid-19-related-restrictions-as-of-march-29-update-3
 https://www.hurriyetdailynews.com/nationwide-weekend-curfews-resume-163643",yes,yes,no,no,yes,no
 2021-04-04,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
-2021-04-05,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-06,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-07,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-08,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-09,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
+2021-04-05,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-06,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-07,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-08,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-09,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
 2021-04-10,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
 2021-04-11,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
-2021-04-12,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-13,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-14,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-15,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-16,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
+2021-04-12,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-13,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-14,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-15,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-16,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
 2021-04-17,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
 2021-04-18,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
-2021-04-19,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-20,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-21,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-22,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-23,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
+2021-04-19,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-20,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-21,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-22,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-23,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
 2021-04-24,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
 2021-04-25,Turkey,7,7,7,7,locally,,,yes,yes,no,no,yes,no
-2021-04-26,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-27,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
-2021-04-28,Turkey,7,7,7,5b,locally,,,"yes, but locally for some groups",yes,locally for some groups,no,yes,no
+2021-04-26,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-27,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
+2021-04-28,Turkey,7,7,7,5b,locally,,,"yes, but locally only for some groups",yes,locally for some groups,no,yes,no
 2021-04-29,Turkey,7,7,7,7,yes,"As of 29 April, a stricter lockdown was imposed that allowed no one to leave their house unless for essential shopping or urgent medical treatments. All travel between cities required offical approval.",https://www.bbc.com/news/world-europe-56912668,yes,yes,no,no,yes,no
 2021-04-30,Turkey,7,7,7,7,yes,,,yes,yes,no,no,yes,no
 2021-05-01,Turkey,7,7,7,7,yes,,,yes,yes,no,no,yes,no
