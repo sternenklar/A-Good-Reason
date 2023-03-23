@@ -71,10 +71,10 @@ date,country,strictest_night,strictest_day,least_strict_night,least_strict_day,l
 2020-03-10,Albania,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-11,Albania,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-12,Albania,0,0,0,0,no,,,no,no,yes,yes,no
-2020-03-13,Albania,0,0,0,0,no,,,no,no,yes,yes,no
+2020-03-13,Albania,0,0,0,0,no,"From Friday 13 March 6 AM to Sunday 12 PM, private cars are not allowed on the road in some regions aside for reasons of basic needs like food and medicine.",https://web.archive.org/web/20200528145555/https://balkaninsight.com/2020/03/12/albania-close-factories-impose-curfew-in-war-against-new-coronavirus/,no,no,yes,yes,no
 2020-03-14,Albania,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-15,Albania,0,0,0,0,no,,,no,no,yes,yes,no
-2020-03-16,Albania,6,6,6,6,no,"An overnight curfew from 6 PM to 6 AM was enforced In Albania beginning from 16 March. Also outside of curfew times, people were generally allowed outside for going to work or to make essential purchases in the <93>essential businesses<94> remaining open.",https://exit.al/en/2020/03/16/albanian-government-imposes-1800-curfew-and-ban-on-sitting-in-public-places/,yes,yes,no,no,no
+2020-03-16,Albania,6,6,6,6,no,"An overnight curfew from 6 PM to 6 AM was enforced In Albania beginning from 16 March. Also outside of curfew times, people were generally allowed outside for going to work or to make essential purchases in the <93>essential businesses<94> remaining open.",https://exit.al/en/albanian-government-imposes-1800-curfew-and-ban-on-sitting-in-public-places/,yes,yes,no,no,no
 2020-03-17,Albania,6,6,6,6,no,,,yes,yes,no,no,no
 2020-03-18,Albania,6,6,6,6,no,"Curfew hours were extended to 18 hours a day. From 19 March, it was allowed to be outside alone and with an important reason from 6 AM to 10 AM and from 4 PM to 6 PM.",https://exit.al/en/2020/03/18/curfew-increased-to-18-hours-a-day-in-albania-due-to-coronavirus-crisis/,yes,yes,no,no,no
 2020-03-19,Albania,6,6,6,6,no,,,yes,yes,no,no,no
@@ -318,7 +318,7 @@ https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/albania/
 2020-11-08,Albania,1,1,1,1,no,,,no,no,yes,yes,yes
 2020-11-09,Albania,1,1,1,1,no,,,no,no,yes,yes,yes
 2020-11-10,Albania,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-11,Albania,7,1,7,1,no,"From 11 November, people were not allowed to leave their houses between 10 PM and 6 AM unless they had a special permission for work or other """"""""important reasons"""""""".","https://exit.al/en/2020/11/09/albania-goes-into-lockdown-from-10-p-m-to-6-a-m/
+2020-11-11,Albania,7,1,7,1,no,"From 11 November, people were not allowed to leave their houses between 10 PM and 6 AM unless they had a special permission for work or other """"""""important reasons"""""""".","https://exit.al/en/albania-goes-into-lockdown-from-10-p-m-to-6-a-m/
 https://exit.al/en/2020/12/02/curfew-to-continue-ban-on-large-gatherings-continues-school-restrictions-remain-the-same/",no,yes,yes,no,yes
 2020-11-12,Albania,7,1,7,1,no,,,no,yes,yes,no,yes
 2020-11-13,Albania,7,1,7,1,no,,,no,yes,yes,no,yes
@@ -2706,10 +2706,12 @@ https://www.heute.at/s/maskenpflicht-im-freien-endet-am-3-mai-100139653",no,yes,
 2021-05-13,Austria,2,0,2,0,locally,,,no,yes,yes,yes,no
 2021-05-14,Austria,2,0,2,0,locally,,,no,yes,yes,yes,no
 2021-05-15,Austria,2,0,2,0,locally,,,no,yes,yes,yes,no
-2021-05-16,Austria,2,0,2,0,locally,,,no,yes,yes,yes,no
-2021-05-17,Austria,2,0,2,0,locally,,,no,yes,yes,yes,no
-2021-05-18,Austria,2,0,2,0,locally,,,no,yes,yes,yes,no
-2021-05-19,Austria,0,0,0,0,locally,The curfew in Austria ended.,https://www.trend.at/branchen/rechtsschutz/corona-oeffnungsverordnung-regeln-mai-12028696,no,no,yes,yes,no
+2021-05-16,Austria,0,0,0,0,locally,The curfew in Austria ended.,"https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2021_II_58/BGBLA_2021_II_58.pdfsig
+https://web.archive.org/web/20210516122935/https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2021_II_206/BGBLA_2021_II_206.html
+https://www.trend.at/branchen/rechtsschutz/corona-oeffnungsverordnung-regeln-mai-12028696",no,no,yes,yes,no
+2021-05-17,Austria,0,0,0,0,locally,,,no,no,yes,yes,no
+2021-05-18,Austria,0,0,0,0,locally,,,no,no,yes,yes,no
+2021-05-19,Austria,0,0,0,0,locally,,,no,no,yes,yes,no
 2021-05-20,Austria,0,0,0,0,locally,,,no,no,yes,yes,no
 2021-05-21,Austria,0,0,0,0,locally,,,no,no,yes,yes,no
 2021-05-22,Austria,0,0,0,0,locally,,,no,no,yes,yes,no
@@ -5583,8 +5585,8 @@ https://www.lalibre.be/belgique/societe/2020/10/27/confinement-acte-2-les-ecoles
 2020-03-17,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-18,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-19,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2020-03-20,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2020-03-21,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
+2020-03-20,Bosnia and Herzegovina,6,6b,0,0,no,"The federation of Bosnia and Herzegovina introduced a stay-at-home order for seniors over 65 and children under 18. I rely on automated translation here, as I first coded the stay-at-home order to begin 2 days later but this is the source OxCGRT used.",https://archive.vn/nF8Nh#selection-1600.0-1600.1,for some groups,yes,for some groups,no,no
+2020-03-21,Bosnia and Herzegovina,6,6b,0,0,no,,,for some groups,yes,for some groups,no,no
 2020-03-22,Bosnia and Herzegovina,6,6b,6,6b,no,"Legislation can generally differ in the two semi-autonomous states Federation of Bosnia and Herzegovina (FBIH) and Republic Srpska (RS). On 22 March both regions introduced a stay-at-home order for seniors over the age of 65. In the Federation of Bosnia and Herzegovina, minors under 18 were also obliged to stay home. The exceptions were for minors in their parents car or for elderly people few hours on certain days to pick up their pensions. For everyone below 65 (in Srpska) or between 18 and 64 (in the Federation), a night curfew was announced. In the Federation, the curfew initially lasted from 6 PM to 5 AM, in the RS from 8 PM to 5 AM. In Brcko district, the curfew spanned from 9 PM to 5 AM. ",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/bosnia-and-herzegovina/preventing-transmission/physical-distancing/,for some groups,yes,for some groups,no,no
 2020-03-23,Bosnia and Herzegovina,6,6b,6,6b,no,,,for some groups,yes,for some groups,no,no
 2020-03-24,Bosnia and Herzegovina,6,6b,6,6b,no,,,for some groups,yes,for some groups,no,no
@@ -6013,21 +6015,23 @@ https://balkaneu.com/bih-republika-srpska-abolishes-state-of-emergency-and-curfe
 2021-05-17,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
 2021-05-18,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
 2021-05-19,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
-2021-05-20,Bosnia and Herzegovina,0,0,0,0,no,The curfew in FBIH was lifted. Facemasks remain mandatory outdoors when a distance of 2m cannot be kept.,https://www.garda.com/crisis24/news-alerts/481651/bosnia-and-herzegovina-authorities-easing-covid-19-restrictions-as-of-may-21-update-26,no,no,yes,yes,no
-2021-05-21,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-05-22,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-05-23,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-05-24,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-05-25,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-05-26,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-05-27,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-05-28,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-05-29,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-05-30,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-05-31,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-06-01,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-06-02,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
-2021-06-03,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
+2021-05-20,Bosnia and Herzegovina,6,0,0,0,no,The curfew in FBIH was lifted. Facemasks remain mandatory outdoors when a distance of 2m cannot be kept. A curfew in Brcko district remains between midnight and 5 AM.,"https://www.garda.com/crisis24/news-alerts/481651/bosnia-and-herzegovina-authorities-easing-covid-19-restrictions-as-of-may-21-update-26
+https://web.archive.org/web/20210527105257/https://www.wko.at/service/aussenwirtschaft/coronavirus-infos-bosnien-herzegowina.html",no,locally,yes,locally,no
+2021-05-21,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-05-22,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-05-23,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-05-24,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-05-25,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-05-26,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-05-27,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-05-28,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-05-29,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-05-30,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-05-31,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-06-01,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-06-02,Bosnia and Herzegovina,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-06-03,Bosnia and Herzegovina,0,0,0,0,no,The curfew in Brcko is lifted.,"https://web.archive.org/web/20210527105257/https://www.wko.at/service/aussenwirtschaft/coronavirus-infos-bosnien-herzegowina.html
+https://web.archive.org/web/20210603100727/https://www.wko.at/service/aussenwirtschaft/coronavirus-infos-bosnien-herzegowina.html",no,no,yes,yes,no
 2021-06-04,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
 2021-06-05,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
 2021-06-06,Bosnia and Herzegovina,0,0,0,0,no,,,no,no,yes,yes,no
@@ -15531,9 +15535,9 @@ https://www.zdf.de/nachrichten/politik/coronavirus-kontaktbeschraenkung-ausgangs
 2020-05-01,Germany,2,2,0,0,no,,,locally,locally,yes,yes,no
 2020-05-02,Germany,2,2,0,0,no,,,locally,locally,yes,yes,no
 2020-05-03,Germany,2,2,0,0,no,,,locally,locally,yes,yes,no
-2020-05-04,Germany,0,0,0,0,no,The stay-at-home orders ended on 3 May.,https://www.zdf.de/nachrichten/politik/coronavirus-kontaktbeschraenkung-ausgangsbeschraenkung-bundeslaender-100.html,no,no,yes,yes,no
-2020-05-05,Germany,0,0,0,0,no,,,no,no,yes,yes,no
-2020-05-06,Germany,0,0,0,0,no,,,no,no,yes,yes,no
+2020-05-04,Germany,2,2,0,0,no,"In several states, stay-at-home orders end on 3 May.",https://www.zdf.de/nachrichten/politik/coronavirus-kontaktbeschraenkung-ausgangsbeschraenkung-bundeslaender-100.html,locally,locally,yes,yes,no
+2020-05-05,Germany,2,2,0,0,no,,,locally,locally,yes,yes,no
+2020-05-06,Germany,0,0,0,0,no,The stay-at-home order in Bavaria ends.,http://web.archive.org/web/20200528133213/https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-5-mai-2020/,no,no,yes,yes,no
 2020-05-07,Germany,0,0,0,0,no,,,no,no,yes,yes,no
 2020-05-08,Germany,0,0,0,0,no,,,no,no,yes,yes,no
 2020-05-09,Germany,0,0,0,0,no,,,no,no,yes,yes,no
@@ -15757,7 +15761,7 @@ https://de.wikipedia.org/wiki/Ausgangssperre#Ausgangsbeschr%C3%A4nkungen_infolge
 2020-12-11,Germany,7,2,0,0,no,,,locally,locally,yes,locally,no
 2020-12-12,Germany,7,2,0,0,no,"A curfew was put in place in the entire province of Baden-Wurttemberg. Other provinces followed in the subsequent weeks. During curfew times, people were allowed to leave their house for important reasons, not including leisure or sports. The exact rules differed extremely between cities, so that it was difficult to make an assessment for the country as a whole. ",https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/baden-wuerttemberg-erlaesst-landesweite-ausgangsbeschraenkungen/,locally,locally,yes,locally,no
 2020-12-13,Germany,7,2,0,0,no,,,locally,locally,yes,locally,no
-2020-12-14,Germany,7,2,0,0,no,"A curfew was put in place in the entire province of Bavaria. Other provinces followed in the subsequent weeks. During curfew times, people were allowed to leave their house for important reasons, not including leisure or sports. The exact rules differed extremely between cities, so that it was difficult to make an assessment for the country as a whole.",https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-14-12-2020/,locally,locally,yes,locally,no
+2020-12-14,Germany,7,2,0,0,no,"A curfew was put in place in the entire state of Bavaria. Other provinces followed in the subsequent weeks. During curfew times, people were allowed to leave their house for important reasons, not including leisure or sports. The exact rules differed extremely between cities, so that it was difficult to make an assessment for the country as a whole.",https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-14-12-2020/,locally,locally,yes,locally,no
 2020-12-15,Germany,7,2,0,0,no,,,locally,locally,yes,locally,no
 2020-12-16,Germany,7,2,0,0,no,,,locally,locally,yes,locally,no
 2020-12-17,Germany,7,2,0,0,no,,,locally,locally,yes,locally,no
@@ -21444,7 +21448,7 @@ http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-go
 2021-05-07,Italy,7,5,7,1,locally,,,locally,yes,locally,no,yes
 2021-05-08,Italy,7,5,7,1,locally,,,locally,yes,locally,no,yes
 2021-05-09,Italy,7,5,7,1,locally,,,locally,yes,locally,no,yes
-2021-05-10,Italy,7,1,7,1,locally,"All provinces were moved outside of """"""""scenario 4"""""""". Some remained in scenario 3.",https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,yes,yes,no,yes
+2021-05-10,Italy,7,1,7,1,locally,"All provinces were moved outside of """"""""scenario 4"""""""". Some remained in scenario 3. But it seems, single municipalities could remain under harsher scenarios.",https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,yes,yes,no,yes
 2021-05-11,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
 2021-05-12,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
 2021-05-13,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
@@ -21458,290 +21462,300 @@ http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-go
 2021-05-21,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
 2021-05-22,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
 2021-05-23,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
-2021-05-24,Italy,7,1,7,1,no,"All regions are under scenario 2 now, thus travel between municipalities was allowed again across the whole country and a curfew between 11 PM and 5 AM applied.",https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,yes,yes,no,yes
-2021-05-25,Italy,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-05-26,Italy,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-05-27,Italy,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-05-28,Italy,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-05-29,Italy,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-05-30,Italy,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-05-31,Italy,7,1,1,1,no,The first two regions moved to scenario 1 where no curfew applied.,https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,locally,yes,locally,yes
-2021-06-01,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-02,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-03,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-04,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-05,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-06,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-07,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-08,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-09,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-10,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-11,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-12,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-13,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-14,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-15,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-16,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-17,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-18,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-19,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-20,Italy,7,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-21,Italy,1,1,1,1,no,The curfew was discontinued.,https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,locally,yes,locally,yes
-2021-06-22,Italy,1,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-23,Italy,1,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-24,Italy,1,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-25,Italy,1,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-26,Italy,1,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-27,Italy,1,1,1,1,no,,,no,locally,yes,locally,yes
-2021-06-28,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-06-29,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-06-30,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-01,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-02,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-03,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-04,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-05,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-06,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-07,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-08,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-09,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-10,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-11,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-12,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-13,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-14,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-15,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-16,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-17,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-18,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-19,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-20,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-21,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-22,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-23,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-24,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-25,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-26,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-27,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-28,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-29,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-30,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-07-31,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-01,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-02,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-03,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-04,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-05,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-06,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-07,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-08,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-09,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-10,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-11,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-12,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-13,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-14,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-15,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-16,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-17,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-18,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-19,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-20,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-21,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-22,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-23,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-24,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-25,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-26,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-27,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-28,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-29,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-30,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-08-31,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-01,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-02,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-03,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-04,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-05,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-06,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-07,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-08,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-09,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-10,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-11,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-12,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-13,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-14,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-15,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-16,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-17,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-18,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-19,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-20,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-21,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-22,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-23,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-24,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-25,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-26,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-27,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-28,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-29,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-09-30,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-01,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-02,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-03,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-04,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-05,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-06,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-07,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-08,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-09,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-10,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-11,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-12,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-13,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-14,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-15,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-16,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-17,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-18,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-19,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-20,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-21,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-22,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-23,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-24,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-25,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-26,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-27,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-28,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-29,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-30,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-10-31,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-01,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-02,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-03,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-04,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-05,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-06,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-07,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-08,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-09,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-10,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-11,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-12,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-13,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-14,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-15,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-16,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-17,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-18,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-19,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-20,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-21,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-22,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-23,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-24,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-25,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-26,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-27,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-28,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-29,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-11-30,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-01,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-02,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-03,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-04,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-05,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-06,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-07,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-08,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-09,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-10,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-11,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-12,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-13,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-14,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-15,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-16,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-17,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-18,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-19,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-20,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-21,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-22,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-23,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-24,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-25,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-26,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-27,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-28,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-29,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-30,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2021-12-31,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-01,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-02,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-03,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-04,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-05,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-06,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-07,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-08,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-09,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-10,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-11,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-12,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-13,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-14,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-15,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-16,Italy,1,1,1,1,no,,,no,no,yes,yes,yes
-2022-01-17,Italy,1,1,1,1,locally,"The region of Valle d<92>Aosta moves to the orange tier. Those who are not considered fully vaccinated may travel outside of their municipality for reasons of work, necessities, health, or for services which are not available in their municipality. Residents of municipalities with less than 5000 inhabitants may travel to other municipalities within a radius of 30 km but not to the province capital.","https://www.gazzettamatin.com/2022/01/14/covid-valle-daosta-da-lunedi-17-gennaio-zona-arancione/
-",no,no,yes,yes,yes
-2022-01-18,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-19,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-20,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-21,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-22,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-23,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-24,Italy,1,1,1,1,locally,"The regions of Friuli-Venezia Giulia, Piemonte, Abruzzo and Sicilia move to the orange tier. In Friuli-Venezia Giulia and Abruzzo, those who are not considered fully vaccinated may travel outside of their municipality for reasons of work, necessities, health, or for services which are not available in their municipality. Residents of municipalities with less than 5000 inhabitants may travel to proximate municipalities. In Piemonte, those who are not considered fully vaccinated may travel outside of the region with their own car for reasons of work, health or necessity.","https://www.regione.piemonte.it/web/pinforma/notizie/zona-arancione-dal-24-gennaio
+2021-05-24,Italy,7,1,7,1,locally,"All regions are under scenario 2 now, thus travel between municipalities was allowed again across the whole country and a curfew between 11 PM and 5 AM applied.",https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,yes,yes,no,yes
+2021-05-25,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
+2021-05-26,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
+2021-05-27,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
+2021-05-28,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
+2021-05-29,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
+2021-05-30,Italy,7,1,7,1,locally,,,no,yes,yes,no,yes
+2021-05-31,Italy,7,1,1,1,locally,The first two regions moved to scenario 1 where no curfew applied.,https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,locally,yes,locally,yes
+2021-06-01,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-02,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-03,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-04,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-05,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-06,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-07,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-08,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-09,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-10,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-11,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-12,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-13,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-14,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-15,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-16,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-17,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-18,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-19,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-20,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-21,Italy,7,1,1,1,locally,"The curfew was discontinued in yellow and orange zones, but remained in red zones. No province became a red zone afterwards, but local red zones were declared.",https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,locally,yes,locally,yes
+2021-06-22,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-23,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-24,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-25,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-26,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-27,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-28,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-29,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-06-30,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-01,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-02,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-03,Italy,7,1,1,1,locally,"A local red zone exists in  Mazzarino in Sicilia. Over the next months, every time I checked, there existed local red zones, mostly in Sicilia, Calabria and sometimes Sardegna. I assume local red zones existed throughout 2021. It goes beyond the scope of this project to list all of them.","https://caltanissetta.gds.it/articoli/cronaca/2021/07/14/covid-riesi-nuova-zona-rossa-del-nisseno-e-a-mazzarino-proroga-fino-al-21-luglio-8831692a-e8c6-4b81-9f1f-85d7aa0f0dc1/
+https://web.archive.org/web/20210714203412/http://www.ansa.it/calabria/notizie/2021/07/14/covid-tre-focolai-e-48-casi-zona-rossa-in-comune-calabrese_c45c7a33-6668-43ea-8165-1aff8b52e3ab.html
+https://www.calabriadirettanews.com/2021/08/09/covid-due-zone-rosse-in-calabria/ https://web.archive.org/web/20210903172034/https://www.qualitytravel.it/colori-regioni-covid-19-le-nuove-zone-rosse-arancioni-gialle-e-bianche-dal-22-marzo/92843 https://www.ansa.it/calabria/notizie/2021/08/22/covidnuova-zona-rossa-in-calabriae-santagata-del-bianco_12feb20e-594d-4a78-b8c5-c9ec74f5ba96.html https://web.archive.org/web/20210917164754/https://www.qualitytravel.it/colori-regioni-covid-19-le-nuove-zone-rosse-arancioni-gialle-e-bianche-dal-22-marzo/92843 https://www.corrieredellacalabria.it/2021/10/02/due-nuove-zone-rosse-in-calabria-nardodipace-e-la-frazione-barritteri-di-seminara/   https://web.archive.org/web/20210722143601/https://www.ansa.it/calabria/notizie/2021/07/22/covid-prorogata-zona-rossa-in-comune-calabrese_ffe833ef-8a6e-44cd-98ce-6796c5080276.htmlhttps://web.archive.org/web/20210712185437/https://www.ilmessaggero.it/italia/zona_rossa_piazza_armerina_enna_contagi_limitazioni_divieti-6076928.html
+https://web.archive.org/web/20210720190926/https://www.ilgiorno.it/cronaca/zone-rosse-italia-1.6611127
+https://www.ansa.it/calabria/notizie/2021/07/22/covid-prorogata-zona-rossa-in-comune-calabrese_ffe833ef-8a6e-44cd-98ce-6796c5080276.html
+
+
+
+",no,locally,yes,locally,yes
+2021-07-04,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-05,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-06,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-07,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-08,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-09,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-10,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-11,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-12,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-13,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-14,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-15,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-16,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-17,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-18,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-19,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-20,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-21,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-22,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-23,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-24,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-25,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-26,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-27,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-28,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-29,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-30,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-07-31,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-01,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-02,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-03,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-04,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-05,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-06,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-07,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-08,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-09,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-10,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-11,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-12,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-13,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-14,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-15,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-16,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-17,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-18,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-19,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-20,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-21,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-22,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-23,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-24,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-25,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-26,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-27,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-28,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-29,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-30,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-08-31,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-01,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-02,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-03,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-04,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-05,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-06,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-07,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-08,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-09,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-10,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-11,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-12,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-13,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-14,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-15,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-16,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-17,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-18,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-19,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-20,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-21,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-22,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-23,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-24,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-25,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-26,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-27,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-28,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-29,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-09-30,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-01,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-02,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-03,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-04,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-05,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-06,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-07,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-08,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-09,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-10,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-11,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-12,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-13,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-14,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-15,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-16,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-17,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-18,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-19,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-20,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-21,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-22,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-23,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-24,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-25,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-26,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-27,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-28,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-29,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-30,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-10-31,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-01,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-02,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-03,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-04,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-05,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-06,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-07,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-08,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-09,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-10,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-11,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-12,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-13,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-14,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-15,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-16,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-17,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-18,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-19,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-20,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-21,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-22,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-23,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-24,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-25,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-26,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-27,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-28,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-29,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-11-30,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-01,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-02,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-03,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-04,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-05,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-06,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-07,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-08,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-09,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-10,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-11,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-12,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-13,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-14,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-15,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-16,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-17,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-18,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-19,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-20,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-21,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-22,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-23,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-24,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-25,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-26,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-27,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-28,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-29,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-30,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2021-12-31,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-01,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-02,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-03,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-04,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-05,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-06,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-07,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-08,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-09,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-10,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-11,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-12,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-13,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-14,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-15,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-16,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-17,Italy,7,1,1,1,locally,"The region of Valle d<92>Aosta moves to the orange tier. Those who are not considered fully vaccinated may travel outside of their municipality for reasons of work, necessities, health, or for services which are not available in their municipality. Residents of municipalities with less than 5000 inhabitants may travel to other municipalities within a radius of 30 km but not to the province capital.","https://www.gazzettamatin.com/2022/01/14/covid-valle-daosta-da-lunedi-17-gennaio-zona-arancione/
+",no,locally,yes,locally,yes
+2022-01-18,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-19,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-20,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-21,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-22,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-23,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-24,Italy,7,1,1,1,locally,"The regions of Friuli-Venezia Giulia, Piemonte, Abruzzo and Sicilia move to the orange tier. In Friuli-Venezia Giulia and Abruzzo, those who are not considered fully vaccinated may travel outside of their municipality for reasons of work, necessities, health, or for services which are not available in their municipality. Residents of municipalities with less than 5000 inhabitants may travel to proximate municipalities. In Piemonte, those who are not considered fully vaccinated may travel outside of the region with their own car for reasons of work, health or necessity.","https://www.regione.piemonte.it/web/pinforma/notizie/zona-arancione-dal-24-gennaio
 https://ascom.pn.it/it/news/friuli-venezia-giulia-in-zona-arancione-da-luned-24-gennaio-2022
-https://www.terremarsicane.it/abruzzo-in-zona-arancione-le-restrizioni-attive-da-lunedi-24-gennaio/",no,no,yes,yes,yes
-2022-01-25,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-26,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-27,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-28,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-29,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-30,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-01-31,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-02-01,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-02-02,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-02-03,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-02-04,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-02-05,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-02-06,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-02-07,Italy,1,1,1,1,locally,Marche moves to orange tier and introduces restrictions on the movement of the unvaccinated similar to other regions in orange tier.,https://www.ilrestodelcarlino.it/cronaca/zona-arancione-marche-regole-2022-1.7236755,no,no,yes,yes,yes
-2022-02-08,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-02-09,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-02-10,Italy,1,1,1,1,locally,,,no,no,yes,yes,yes
-2022-02-11,Italy,0,0,0,0,locally,Masks are no longer mandatory outdoors,https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,no,yes,yes,no
-2022-02-12,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-13,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-14,Italy,0,0,0,0,locally,Sicilia moves from the orange tier.,https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,no,yes,yes,no
-2022-02-15,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-16,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-17,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-18,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-19,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-20,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-21,Italy,0,0,0,0,locally,"Valle d<92>Aosta, Piemonte, Marche and Abruzzo move from orange tier.",https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,no,yes,yes,no
-2022-02-22,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-23,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-24,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-25,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-26,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-27,Italy,0,0,0,0,locally,,,no,no,yes,yes,no
-2022-02-28,Italy,0,0,0,0,no,Friuli-Venezia Giulia moves from the orange tier.,https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,no,yes,yes,no
+https://www.terremarsicane.it/abruzzo-in-zona-arancione-le-restrizioni-attive-da-lunedi-24-gennaio/",no,locally,yes,locally,yes
+2022-01-25,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-26,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-27,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-28,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-29,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-30,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-01-31,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-02-01,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-02-02,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-02-03,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-02-04,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-02-05,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-02-06,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-02-07,Italy,7,1,1,1,locally,Marche moves to orange tier and introduces restrictions on the movement of the unvaccinated similar to other regions in orange tier.,https://www.ilrestodelcarlino.it/cronaca/zona-arancione-marche-regole-2022-1.7236755,no,locally,yes,locally,yes
+2022-02-08,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-02-09,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-02-10,Italy,7,1,1,1,locally,,,no,locally,yes,locally,yes
+2022-02-11,Italy,7,1,1,1,locally,Masks are no longer mandatory outdoors,https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,locally,yes,locally,yes
+2022-02-12,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-13,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-14,Italy,6,0,0,0,locally,Sicilia moves from the orange tier.,https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,locally,yes,locally,no
+2022-02-15,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-16,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-17,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-18,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-19,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-20,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-21,Italy,6,0,0,0,locally,"Valle d<92>Aosta, Piemonte, Marche and Abruzzo move from orange tier.",https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia,no,locally,yes,locally,no
+2022-02-22,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-23,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-24,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-25,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-26,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-27,Italy,6,0,0,0,locally,,,no,locally,yes,locally,no
+2022-02-28,Italy,0,0,0,0,no,"Friuli-Venezia Giulia moves from the orange tier. As it seems, there are also no local red zones anymore.","https://it.wikipedia.org/wiki/Gestione_della_pandemia_di_COVID-19_in_Italia
+https://www.qualitytravel.it/colori-regioni-covid-19-le-nuove-zone-rosse-arancioni-gialle-e-bianche-dal-22-marzo/92843
+",no,no,yes,yes,no
 2022-03-01,Italy,0,0,0,0,no,,,no,no,yes,yes,no
 2022-03-02,Italy,0,0,0,0,no,,,no,no,yes,yes,no
 2022-03-03,Italy,0,0,0,0,no,,,no,no,yes,yes,no
@@ -22574,98 +22588,99 @@ https://drive.google.com/file/d/1mLCGV0Bvgtf91aKvxocwk5PiDmV2U6Jc/view",no,no,ye
 2021-05-28,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
 2021-05-29,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
 2021-05-30,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-05-31,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-01,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-02,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-03,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-04,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-05,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-06,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-07,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-08,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-09,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-10,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-11,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-12,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-13,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-14,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-15,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-16,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-17,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-18,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-19,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-20,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-21,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-22,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-23,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-24,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-25,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-26,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-27,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-28,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-29,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-06-30,Kosovo,7,1,7,1,no,,,no,yes,yes,no,yes
-2021-07-01,Kosovo,6,0,6,0,no,Masks will no longer be mandatory outdoors as of 1 July.,https://exit.al/en/2021/07/01/albania-further-eases-pandemic-restrictions-starting-july-1/,no,yes,yes,no,no
-2021-07-02,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-03,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-04,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-05,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-06,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-07,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-08,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-09,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-10,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-11,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-12,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-13,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-14,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-15,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-16,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-17,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-18,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-19,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-20,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-21,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-22,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-23,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-24,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-25,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-26,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-27,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-28,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-29,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-30,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-07-31,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-01,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-02,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-03,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-04,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-05,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-06,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-07,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-08,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-09,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-10,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-11,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-12,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-13,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-14,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-15,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-16,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-17,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-18,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-19,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-20,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-21,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-22,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-23,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-24,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-25,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-26,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-27,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-28,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-29,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
-2021-08-30,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
+2021-05-31,Kosovo,1,1,1,1,no,The curfew is lifted.,https://web.archive.org/web/20210603085252/https://prishtinainsight.com/new-covid-19-measures-enter-into-force-on-monday/,no,no,yes,yes,yes
+2021-06-01,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-02,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-03,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-04,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-05,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-06,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-07,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-08,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-09,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-10,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-11,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-12,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-13,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-14,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-15,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-16,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-17,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-18,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-19,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-20,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-21,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-22,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-23,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-24,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-25,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-26,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-27,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-28,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-29,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-06-30,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-01,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-02,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-03,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-04,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-05,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-06,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-07,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-08,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-09,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-10,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-11,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-12,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-13,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-14,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-15,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-16,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-17,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-18,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-19,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-20,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-21,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-22,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-23,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-24,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-25,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-26,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-27,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-28,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-29,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-30,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-07-31,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-01,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-02,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-03,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-04,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-05,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-06,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-07,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-08,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-09,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-10,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-11,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-12,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-13,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-14,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-15,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-16,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-17,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-18,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-19,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-20,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-21,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-22,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-23,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-24,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-25,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-26,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-27,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-28,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-29,Kosovo,1,1,1,1,no,,,no,no,yes,yes,yes
+2021-08-30,Kosovo,6,0,6,0,no,A curfew is reintroduced.,"https://web.archive.org/web/20210913000116/https://msh.rks-gov.net/wp-content/uploads/2021/08/Vendimi-i-masave-kunder-COVID-19-ENG.docx
+",no,yes,yes,no,no
 2021-08-31,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
 2021-09-01,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
 2021-09-02,Kosovo,6,0,6,0,no,,,no,yes,yes,no,no
@@ -32042,7 +32057,9 @@ https://balkaninsight.com/2021/04/02/montenegros-empty-resorts-await-summer-seas
 2020-03-21,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-22,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-23,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
-2020-03-24,Netherlands,0,0,0,0,no,"During the first wave of the pandemic, no curfews, stay-at-home orders or outside mask mandates were imposed on the Dutch. It was prohibited to be in public with groups of more than 3 persons if no distance was kept.",https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/netherlands/preventing-transmission/physical-distancing/,no,no,yes,yes,no
+2020-03-24,Netherlands,0,0,0,0,no,"During the first wave of the pandemic, no curfews, stay-at-home orders or outside mask mandates were imposed on the Dutch. It was prohibited to be in public with groups of more than 3 persons if no distance was kept.","https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/netherlands/preventing-transmission/physical-distancing/
+https://web.archive.org/web/20200325175955/https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/veelgestelde-vragen-per-onderwerp/maatregelen-en-handhaving
+https://www.rijksoverheid.nl/actueel/nieuws/2020/03/24/aanvullende-maatregelen-23-maart",no,no,yes,yes,no
 2020-03-25,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-26,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-27,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
@@ -32077,7 +32094,7 @@ https://balkaninsight.com/2021/04/02/montenegros-empty-resorts-await-summer-seas
 2020-04-25,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2020-04-26,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2020-04-27,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
-2020-04-28,Netherlands,0,0,0,0,no,The curfew was not prolonged.,https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/niederlande-beenden-lockdown-und-oeffnen-laeden-trotz-hoher-inzidenz-17315510.html,no,no,yes,yes,no
+2020-04-28,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2020-04-29,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2020-04-30,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2020-05-01,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
@@ -32443,7 +32460,8 @@ https://nos.nl/artikel/2345715-amsterdam-en-rotterdam-stoppen-met-mondkapjesplic
 2021-04-25,Netherlands,6,0,6,0,no,,,no,yes,yes,no,no
 2021-04-26,Netherlands,6,0,6,0,no,,,no,yes,yes,no,no
 2021-04-27,Netherlands,6,0,6,0,no,,,no,yes,yes,no,no
-2021-04-28,Netherlands,0,0,0,0,no,The curfew was lifted.,https://rp-online.de/panorama/niederlande/holland-geschaefte-und-terrassen-oeffnen-ab-28-april-wieder_aid-57463883,no,no,yes,yes,no
+2021-04-28,Netherlands,0,0,0,0,no,The curfew was lifted.,"https://rp-online.de/panorama/niederlande/holland-geschaefte-und-terrassen-oeffnen-ab-28-april-wieder_aid-57463883
+https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/niederlande-beenden-lockdown-und-oeffnen-laeden-trotz-hoher-inzidenz-17315510.html",no,no,yes,yes,no
 2021-04-29,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2021-04-30,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
 2021-05-01,Netherlands,0,0,0,0,no,,,no,no,yes,yes,no
@@ -37593,7 +37611,8 @@ https://www.garrigues.com/en_GB/new/covid-19-main-legislative-or-regulatory-init
 2020-05-01,Portugal,6b,6b,6b,6b,no,,,yes,yes,for some groups,for some groups,no
 2020-05-02,Portugal,6b,6b,6b,6b,no,,,yes,yes,for some groups,for some groups,no
 2020-05-03,Portugal,4,4,4,4,no,"The state of emergency ended and with it ended the total lockdown for elderly people. Short walks remain allowed, individually or with members of the same household. Further reasons to leave the house were introduced, e.g. fishing.","https://files.dre.pt/1s/2020/04/08503/0001000021.pdf
-https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/portugal/preventing-transmission/physical-distancing/",yes,yes,yes,yes,no
+https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/portugal/preventing-transmission/physical-distancing/
+http://web.archive.org/web/20210620185609/https://www.tsf.pt/portugal/sociedade/as-25-excecoes-ao-dever-civico-de-recolhimento-em-casa-12142163.html",yes,yes,yes,yes,no
 2020-05-04,Portugal,4,4,4,4,no,,,yes,yes,yes,yes,no
 2020-05-05,Portugal,4,4,4,4,no,,,yes,yes,yes,yes,no
 2020-05-06,Portugal,4,4,4,4,no,,,yes,yes,yes,yes,no
@@ -40339,13 +40358,13 @@ https://www.dw.com/en/russia-eases-lockdown-at-the-height-of-its-coronavirus-cri
 2021-10-16,Russia,0,0,0,0,no,,,no,no,yes,yes,no
 2021-10-17,Russia,0,0,0,0,no,,,no,no,yes,yes,no
 2021-10-18,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2021-10-19,Russia,2b,2b,0,0,no,Unvaccinated people over 60 or with chronic illnesses are no longer allowed to leave their house except for a valid reason like exercising or going for a walk.,https://www.ntd.com/moscow-imposes-4-month-stay-at-home-order-for-unvaccinated-seniors-chronically-ill_691515.html,for some groups,locally for some groups,yes,yes,no
-2021-10-20,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
-2021-10-21,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
-2021-10-22,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
-2021-10-23,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
-2021-10-24,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
-2021-10-25,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2021-10-19,Russia,0,0,0,0,no,,,no,no,yes,yes,no
+2021-10-20,Russia,0,0,0,0,no,,,no,no,yes,yes,no
+2021-10-21,Russia,0,0,0,0,no,,,no,no,yes,yes,no
+2021-10-22,Russia,0,0,0,0,no,,,no,no,yes,yes,no
+2021-10-23,Russia,0,0,0,0,no,,,no,no,yes,yes,no
+2021-10-24,Russia,0,0,0,0,no,,,no,no,yes,yes,no
+2021-10-25,Russia,2b,2b,0,0,no,Unvaccinated people over 60 or with chronic illnesses are no longer allowed to leave their house except for a valid reason like exercising or going for a walk.,https://www.ntd.com/moscow-imposes-4-month-stay-at-home-order-for-unvaccinated-seniors-chronically-ill_691515.html,for some groups,locally for some groups,yes,yes,no
 2021-10-26,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
 2021-10-27,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
 2021-10-28,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
@@ -40468,42 +40487,43 @@ https://www.dw.com/en/russia-eases-lockdown-at-the-height-of-its-coronavirus-cri
 2022-02-22,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
 2022-02-23,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
 2022-02-24,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
-2022-02-25,Russia,2b,2b,0,0,no,The stay-at-home order for older people in Moscow was scheduled to end. I found no news confirming this.,https://www.ntd.com/moscow-imposes-4-month-stay-at-home-order-for-unvaccinated-seniors-chronically-ill_691515.html,for some groups,locally for some groups,yes,yes,no
-2022-02-26,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-02-27,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-02-28,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-01,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-02,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-03,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-04,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-05,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-06,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-07,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-08,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-09,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-10,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-11,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-12,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-13,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-14,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-15,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-16,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-17,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-18,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-19,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-20,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-21,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-22,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-23,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-24,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-25,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-26,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-27,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-28,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-29,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-30,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-03-31,Russia,0,0,0,0,no,,,no,no,yes,yes,no
-2022-04-01,Russia,0,0,0,0,no,,,no,no,yes,yes,no
+2022-02-25,Russia,2b,2b,0,0,no,"The stay-at-home order for older people in Moscow was scheduled to end. I found no news confirming this. Apparently, it was prolonged according to the automated translation of the link.","https://www.ntd.com/moscow-imposes-4-month-stay-at-home-order-for-unvaccinated-seniors-chronically-ill_691515.html
+https://web.archive.org/web/20220220025511/https://www.mos.ru/city/projects/measures/",for some groups,locally for some groups,yes,yes,no
+2022-02-26,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-02-27,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-02-28,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-01,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-02,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-03,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-04,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-05,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-06,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-07,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-08,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-09,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-10,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-11,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-12,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-13,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-14,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-15,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-16,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-17,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-18,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-19,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-20,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-21,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-22,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-23,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-24,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-25,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-26,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-27,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-28,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-29,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-30,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-03-31,Russia,2b,2b,0,0,no,,,for some groups,locally for some groups,yes,yes,no
+2022-04-01,Russia,2b,2b,0,0,no,The stay-at-home order for the elderly in Moscow was scheduled to end.,https://web.archive.org/web/20220519053110/https://www.mos.ru/city/projects/measures/,for some groups,locally for some groups,yes,yes,no
 2022-04-02,Russia,0,0,0,0,no,,,no,no,yes,yes,no
 2022-04-03,Russia,0,0,0,0,no,,,no,no,yes,yes,no
 2022-04-04,Russia,0,0,0,0,no,,,no,no,yes,yes,no
@@ -43273,30 +43293,30 @@ https://balkaninsight.com/2020/06/09/covid-19-lockdown-of-roma-villages-creates-
 2020-10-21,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
 2020-10-22,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
 2020-10-23,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-10-24,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-10-25,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-10-26,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-10-27,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-10-28,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-10-29,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-10-30,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-10-31,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-01,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-02,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-03,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-04,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-05,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-06,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-07,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-08,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-09,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-10,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-11,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-12,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-13,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-14,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-15,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
-2020-11-16,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
+2020-10-24,Slovak Republic,5,1,3,1,no,"A new stay-at-home order is in place. Going out into nature within the district is one of the exceptions to leave the house. The stay-at-home order also doesn’t apply between 1 AM and 5 AM. In Oraja and Bardejov, a testing regime is piloted that, among other restrictions, means that only people with a recent negative test may go out into nature.",https://spectator.sme.sk/c/22516817/curfew-and-closed-schools-slovakia-goes-into-a-mild-lockdown-this-weekend.html,yes,yes,locally,locally,yes
+2020-10-25,Slovak Republic,5,1,3,1,no,,,yes,yes,locally,locally,yes
+2020-10-26,Slovak Republic,5,1,3,1,no,,,yes,yes,locally,locally,yes
+2020-10-27,Slovak Republic,5,1,3,1,no,,,yes,yes,locally,locally,yes
+2020-10-28,Slovak Republic,5,1,3,1,no,,,yes,yes,locally,locally,yes
+2020-10-29,Slovak Republic,5,1,3,1,no,,,yes,yes,locally,locally,yes
+2020-10-30,Slovak Republic,5,1,3,1,no,,,yes,yes,locally,locally,yes
+2020-10-31,Slovak Republic,5,1,3,1,no,,,yes,yes,locally,locally,yes
+2020-11-01,Slovak Republic,5,1,3,1,no,,,yes,yes,locally,locally,yes
+2020-11-02,Slovak Republic,5,1,5,1,no,"The curfew is lifted for people with a negative test. The strictest_day and least_strict_day variables are coded as such because the curfew doesn’t apply between 1 AM and 5 AM. The naming is misleading here. It is the only example I came across where the rules at night weren’t stricter, but less strict.",https://spectator.sme.sk/c/22520536/the-big-testing-when-and-where-to-show-up-and-what-if-i-dont-want-to-faq.html,yes,yes,no,no,yes
+2020-11-03,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-04,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-05,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-06,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-07,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-08,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-09,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-10,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-11,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-12,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-13,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-14,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-15,Slovak Republic,5,1,5,1,no,,,yes,yes,no,no,yes
+2020-11-16,Slovak Republic,1,1,1,1,no,The curfew is lifted.,https://spectator.sme.sk/c/22536069/coronavirus-in-slovakia-measures-in-place-after-november-16.html,no,no,yes,yes,yes
 2020-11-17,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
 2020-11-18,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
 2020-11-19,Slovak Republic,1,1,1,1,no,,,no,no,yes,yes,yes
@@ -44160,10 +44180,11 @@ https://rokovania.gov.sk/RVL/Resolution/19679/1 (auto translated)",yes,yes,yes,y
 2020-03-17,Slovenia,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-18,Slovenia,0,0,0,0,no,,,no,no,yes,yes,no
 2020-03-19,Slovenia,0,0,0,0,no,,,no,no,yes,yes,no
-2020-03-20,Slovenia,0,0,0,0,no,,,no,no,yes,yes,no
-2020-03-21,Slovenia,0,0,0,0,no,,,no,no,yes,yes,no
-2020-03-22,Slovenia,0,0,0,0,no,,,no,no,yes,yes,no
-2020-03-23,Slovenia,2,2,2,2,no,"Gatherings and movement of people in public were banned. It was allowed to leave home to work, for medical reasons or to buy groceries at the closest shop. People were also allowed to go outdoors and to parks, but with people living in the same household.",https://www.total-slovenia-news.com/news/5892-morning-headlines-for-slovenia,yes,yes,yes,yes,no
+2020-03-20,Slovenia,2,2,2,2,no,"Gatherings and movement of people in public were banned. It was allowed to leave home to work, for medical reasons or to buy groceries at the closest shop. People were also allowed to go outdoors and to parks, but with people living in the same household.","https://www.rtvslo.si/zdravje/novi-koronavirus/zbiranje-in-gibanje-omejeni-posameznik-se-lahko-rekreira-druzina-lahko-gre-na-sprehod/517774
+https://www.total-slovenia-news.com/news/5892-morning-headlines-for-slovenia",yes,yes,yes,yes,no
+2020-03-21,Slovenia,2,2,2,2,no,,,yes,yes,yes,yes,no
+2020-03-22,Slovenia,2,2,2,2,no,,,yes,yes,yes,yes,no
+2020-03-23,Slovenia,2,2,2,2,no,,,yes,yes,yes,yes,no
 2020-03-24,Slovenia,2,2,2,2,no,,,yes,yes,yes,yes,no
 2020-03-25,Slovenia,2,2,2,2,no,,,yes,yes,yes,yes,no
 2020-03-26,Slovenia,2,2,2,2,no,,,yes,yes,yes,yes,no
@@ -45382,23 +45403,23 @@ https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/spain/pr
 2020-07-12,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
 2020-07-13,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
 2020-07-14,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-15,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-16,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-17,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-18,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-19,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-20,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-21,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-22,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-23,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-24,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-25,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-26,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-27,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-28,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-29,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-30,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-07-31,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
+2020-07-15,Spain,7,7,0,0,no,A lockdown is imposed in the city of Lleida. Leaving the house is only allowed to work or buy essential supplies.,https://archive.vn/REnfW,locally,locally,locally,locally,locally
+2020-07-16,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-17,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-18,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-19,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-20,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-21,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-22,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-23,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-24,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-25,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-26,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-27,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-28,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-29,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-30,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
+2020-07-31,Spain,7,7,0,0,no,,,locally,locally,locally,locally,locally
 2020-08-01,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
 2020-08-02,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
 2020-08-03,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
@@ -45407,19 +45428,19 @@ https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/spain/pr
 2020-08-06,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
 2020-08-07,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
 2020-08-08,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-09,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-10,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-11,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-12,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-13,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-14,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-15,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-16,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-17,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-18,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-19,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-20,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
-2020-08-21,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
+2020-08-09,Spain,1,1,0,0,locally,Entering or leaving the municipality of Aranda de Duero is only allowed for a set of reasons.,,no,no,yes,yes,locally
+2020-08-10,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-11,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-12,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-13,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-14,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-15,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-16,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-17,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-18,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-19,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-20,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
+2020-08-21,Spain,1,1,0,0,locally,,,no,no,yes,yes,locally
 2020-08-22,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
 2020-08-23,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
 2020-08-24,Spain,1,1,0,0,no,,,no,no,yes,yes,locally
@@ -45754,67 +45775,69 @@ https://www.lavanguardia.com/vida/20210618/7539906/donde-si-usar-mascarilla-26-j
 2021-07-09,Spain,0,0,0,0,no,,,no,no,yes,yes,no
 2021-07-10,Spain,0,0,0,0,no,,,no,no,yes,yes,no
 2021-07-11,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-12,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-13,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-14,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-15,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-16,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-17,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-18,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-19,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-20,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-21,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-22,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-23,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-24,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-25,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-26,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-27,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-28,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-29,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-30,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-07-31,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-01,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-02,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-03,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-04,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-05,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-06,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-07,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-08,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-09,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-10,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-11,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-12,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-13,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-14,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-15,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-16,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-17,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-18,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-19,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-20,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-21,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-22,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-23,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-24,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-25,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-26,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-27,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-28,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-29,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-30,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-08-31,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-09-01,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-09-02,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-09-03,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-09-04,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-09-05,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-09-06,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-09-07,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-09-08,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-09-09,Spain,0,0,0,0,no,,,no,no,yes,yes,no
-2021-09-10,Spain,0,0,0,0,no,,,no,no,yes,yes,no
+2021-07-12,Spain,6,0,0,0,no,"A night-time curfew was introduced in municipalities with a high caseload in Valencia province. Catalonia also introduced curfews in municipalities later the same week. Later, curfews have were reimposed in Navarra, Aragón, Cantabria and Murcia. ","https://www.levante-emv.com/comunitat-valenciana/2021/07/26/toque-de-queda-comunidad-valenciana-55437520.html
+https://web.archive.org/web/20210719132115/https://www.euronews.com/2021/07/16/spain-curfew-restored-in-catalonia-as-covid-19-cases-soar
+https://web.archive.org/web/20210802025210/https://www.rtve.es/noticias/20210801/mapa-confinamientos-espana-coronavirus-restricciones/2041269.shtml",no,locally,yes,locally,no
+2021-07-13,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-14,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-15,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-16,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-17,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-18,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-19,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-20,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-21,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-22,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-23,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-24,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-25,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-26,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-27,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-28,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-29,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-30,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-07-31,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-01,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-02,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-03,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-04,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-05,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-06,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-07,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-08,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-09,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-10,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-11,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-12,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-13,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-14,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-15,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-16,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-17,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-18,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-19,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-20,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-21,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-22,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-23,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-24,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-25,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-26,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-27,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-28,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-29,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-30,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-08-31,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-09-01,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-09-02,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-09-03,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-09-04,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-09-05,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-09-06,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-09-07,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-09-08,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-09-09,Spain,6,0,0,0,no,,,no,locally,yes,locally,no
+2021-09-10,Spain,0,0,0,0,no,Cantillana in Sevilla province lifts the curfew as the last municipality.,https://quivirinformacion.es/la-junta-no-solicita-la-prorroga-del-toque-de-queda-para-cantillana/,no,no,yes,yes,no
 2021-09-11,Spain,0,0,0,0,no,,,no,no,yes,yes,no
 2021-09-12,Spain,0,0,0,0,no,,,no,no,yes,yes,no
 2021-09-13,Spain,0,0,0,0,no,,,no,no,yes,yes,no
@@ -48709,7 +48732,7 @@ https://eurohealthobservatory.who.int/monitors/hsrm/hsrm-countries/hsrm/turkey/p
 2020-08-02,Turkey,7b,5b,6b,4b,no,,,for some groups,for some groups,yes,for some groups,locally
 2020-08-03,Turkey,7b,5b,6b,4b,no,,,for some groups,for some groups,yes,for some groups,locally
 2020-08-04,Turkey,7b,5b,6b,4b,no,,,for some groups,for some groups,yes,for some groups,locally
-2020-08-05,Turkey,7b,5b,6b,4b,no,"On 5 August, it was announced that tourists over 65 are excempt from the curfew which was still in place from 8 PM to 10 AM for locals. On the other hand, those over 65 who don't have a residence permit but are not tourists must remain home.",https://www.rnd.de/reise/turkei-keine-ausgangssperre-fur-touristen-uber-65-ADO6Y72COATIYGOEBI7TF5CMSQ.html,for some groups,for some groups,yes,for some groups,locally
+2020-08-05,Turkey,7b,5b,6b,4b,no,"On 5 August, it was announced that tourists over 65 are ecempt from the curfew which was still in place from 8 PM to 10 AM for locals. On the other hand, those over 65 who don't have a residence permit but are not tourists must remain home.",https://www.rnd.de/reise/turkei-keine-ausgangssperre-fur-touristen-uber-65-ADO6Y72COATIYGOEBI7TF5CMSQ.html,for some groups,for some groups,yes,for some groups,locally
 2020-08-06,Turkey,7b,5b,6b,4b,no,,,for some groups,for some groups,yes,for some groups,locally
 2020-08-07,Turkey,7b,5b,6b,4b,no,,,for some groups,for some groups,yes,for some groups,locally
 2020-08-08,Turkey,7b,5b,6b,4b,no,,,for some groups,for some groups,yes,for some groups,locally
