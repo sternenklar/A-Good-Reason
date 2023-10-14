@@ -5,7 +5,7 @@ library(data.table)
 library(ggplot2)
 library(DT)
 library(curl)
-df <- data.table(fread("https://raw.githubusercontent.com/sternenklar/A-Good-Reason/main/Data/complete%20data_compared.csv"))
+df <- data.table(fread("https://github.com/sternenklar/A-Good-Reason/blob/382d0d9e52bda03c1860c12f888fc1255651ea52/Data/complete_data_compared.csv"))
 
 df <- df[stayhome_day=="no" & stayhome_night=="no" & outside_masks=="no", colour:="#008500"]
 df <- df[stayhome_day=="no" & stayhome_night=="no" & !outside_masks %chin% c("yes", "no"), colour:="#CCFF00"]
@@ -29,7 +29,7 @@ ui <- fluidPage(
             mainPanel(width="400px",
                 tags$div("Here you can get an overview of the restrictions in force in different European territories (*) from 1 January 2020 until 31 December 2022. My research essentially deals with the question: Were you allowed to take a walk? Did you need a \"good reason\" to leave your house and if yes, what counted as a good reason?", tags$br(), tags$br(),
                          "You can download the dataset ",
-                         tags$a(href="https://raw.githubusercontent.com/sternenklar/A-Good-Reason/main/Data/complete%20data_compared.csv", "in .csv format here"),
+                         tags$a(href="https://github.com/sternenklar/A-Good-Reason/blob/382d0d9e52bda03c1860c12f888fc1255651ea52/Data/complete_data_compared.csv", "in .csv format here"),
                          " or you can explore the data below. For a definition of variables and classification, please refer to ",
                          tags$a(href="https://github.com/sternenklar/A-Good-Reason/blob/main/Data/codebook.pdf", "this .pdf document"),
                          ".", tags$br(), tags$br(),               
@@ -44,7 +44,7 @@ ui <- fluidPage(
             "Here you can explore the dataset. For an explanation of variables and categorizations refer to above-mentioned ",
             tags$a(href="https://github.com/sternenklar/A-Good-Reason/blob/main/Data/codebook.pdf", ".pdf document"),
             ". You can also download the complete dataset including sources for every policy change in .csv format ",
-            tags$a(href="https://raw.githubusercontent.com/sternenklar/A-Good-Reason/main/Data/complete%20data_compared.csv", "here"),
+            tags$a(href="https://github.com/sternenklar/A-Good-Reason/blob/382d0d9e52bda03c1860c12f888fc1255651ea52/Data/complete_data_compared.csv", "here"),
             ".", tags$br(), tags$br(),
             
            selectInput("selection","select country/territory", choices=unique(df$country)),
