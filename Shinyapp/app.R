@@ -76,12 +76,12 @@ server <- function(input, output) {
         guides(colour=guide_legend(label.hjust=0, nrow=4, title=NULL))
     )
     output$difference <- renderPlot(
-        ggplot(df_compare, aes(x=date, y=country, color=difference_with_oxcgrt))+
+        ggplot(df, aes(x=date, y=country, color=difference_with_oxcgrt))+
             geom_point()+
-            scale_colour_manual(values=c("#FFFFFF", "#000000"))+
-            labs(x=NULL, y=NULL, caption="The black areas denote days for which either the OxCGRT policy tracker reports mandatory \n stay-at-home restrictions in the respective country, but my data doesn't, or vice versa.")+
+            scale_colour_manual(values=c("#ffffff", "#0072B2", "#D55E00"))+
+            labs(x=NULL, y=NULL, caption="Blue: mandatory stay-at-home restrictions reported by AGR but not by OxCGRT \nOrange: mandatory stay-at-home restrictions reported by OxCGRT but not by AGR")+
             theme(legend.position="none",
-                  plot.caption=element_text(hjust=0))
+            plot.caption=element_text(hjust=0))
     )
     output$selection <- renderDT(DT::datatable(
         df[country==input$selection&change!="", c("date", "country", "change", "strictest_night", "strictest_day", "least_strict_night", "least_strict_day", "stayhome_day", "stayhome_night", "walk_day", "walk_night", "leave_municip", "outside_masks", "difference_with_oxcgrt")],
